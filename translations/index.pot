@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-06-21 15:17+0000\n"
+"POT-Creation-Date: 2023-06-21 15:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -205,82 +205,83 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: assignments.en.adoc:1
+#: 100.en.adoc:2 200.en.adoc:2 300.en.adoc:2
 #, no-wrap
-msgid "Final assignments"
+msgid "Section/chapter title "
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:5
-msgid "For your final activities, you will complete and submit ... for evaluation."
+#: 100.en.adoc:7 100.en.adoc:41 200.en.adoc:7 200.en.adoc:42 300.en.adoc:7
+#: 300.en.adoc:42
+msgid "Paragraph1, sentence1.  Sentence 2.  Sentence 3."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:11 200.en.adoc:11 300.en.adoc:11
+msgid "Paragraph2, sentence1.  Sentence 2.  Sentence 3."
+msgstr ""
+
+#. type: Plain text
+#: 100.en.adoc:15 200.en.adoc:15 300.en.adoc:15
+msgid "Paragraph3, sentence1.  Sentence 2.  Sentence 3."
 msgstr ""
 
 #. type: Title ===
-#: assignments.en.adoc:6
+#: 100.en.adoc:16 200.en.adoc:16 300.en.adoc:16
 #, no-wrap
-msgid "Assignment 1"
+msgid "sub topic"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:8
-msgid "There are ..."
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:10
-msgid "Required files for submission:"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:12
-msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:13
-msgid "spreadsheet (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:14
-msgid "dataset (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:16
+#: 100.en.adoc:21
 msgid ""
-"Include the assignment name and exercise number along with your name on all "
-"files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, "
-"Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted "
-"in English*. Contact training@gbif.org if you have any questions."
+"In this video (12:26), you will review ... used in this course.  If you are "
+"unable to watch the embeded Vimeo video, you can download it locally. (MP4 - "
+"44.5 MB)"
 msgstr ""
 
-#. type: Title ===
-#: assignments.en.adoc:17
+#. type: Plain text
+#: 100.en.adoc:27 200.en.adoc:28 300.en.adoc:28
+msgid "Become familiar with the ..."
+msgstr ""
+
+#. type: delimited block *
+#: 100.en.adoc:31 200.en.adoc:32 300.en.adoc:32
+msgid "this is an example of a block this second sentence"
+msgstr ""
+
+#. type: delimited block *
+#: 100.en.adoc:34 200.en.adoc:35 300.en.adoc:35
+msgid "this is second paragraph first sentence.  this is second sentence"
+msgstr ""
+
+#. type: Title ====
+#: 100.en.adoc:36 200.en.adoc:37 300.en.adoc:37
 #, no-wrap
-msgid "Assignment submission"
+msgid "sub sub topic"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:23
-msgid "Assignments can be submitted from the online (HTML) version of the course."
+#: 100.en.adoc:44 200.en.adoc:45 300.en.adoc:45
+msgid "“Paragraph2, sentence1.  Sentence 2.  Sentence 3."
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:27
-msgid ""
-"Please submit your assignment files using the form below.  If you do not see "
-"a form, you can also visit the "
-"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission "
-"site^] in a new window."
+#: 200.en.adoc:20 300.en.adoc:20
+msgid "Watch video on the key concepts of ..."
 msgstr ""
 
-#. type: delimited block +
-#: assignments.en.adoc:30
+#. type: Block title
+#: 200.en.adoc:21 300.en.adoc:21
 #, no-wrap
+msgid "In this video (12:26), you will review ... used in this course. "
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:23 300.en.adoc:23
 msgid ""
-"<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" "
-"style=\"width: 100%; min-height: 900px;\"></iframe>\n"
+"If you are unable to watch the embeded Vimeo video, you can download it "
+"locally. (MP4 - 44.5 MB)"
 msgstr ""
 
 #. type: Title ==
