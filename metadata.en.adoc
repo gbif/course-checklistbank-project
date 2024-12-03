@@ -8,8 +8,8 @@ Once created the project, ChecklistBank will display the overview metadata page.
 - Description: A brief summary of the content and scope of the dataset.
 - Contact: Person who can answer questions regarding the content of the dataset.
 - Creator: Creator of the dataset. 
-- Contributors: All those who contributed to the creation of the checklist
-- Version: to be updated every time  updates are made
+- Contributors: All those who contributed to the creation of the checklist.
+- Version: to be updated every time updates are made.
 
 image::img/web/metadata.png[align=center]
 
