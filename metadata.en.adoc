@@ -1,5 +1,20 @@
-== Course evaluation
+[multipage-level=1]
 
-[NOTE.eval]
-Complete the course evaluation
+== Metadata
+
+Once created the project, ChecklistBank will display the overview metadata page. Click on  “Edit” at the top right of the left menu to add metadata. Fill in as much detail as possible,  specially in the following fields taking into account the following best practices:
+
+- Give the project your own unique Alias – this will make it easier to locate in later steps. Consider using camelCase and spaces; avoid ALL CAPS and underscores.
+- Description: A brief summary of the content and scope of the dataset.
+- Contact: Person who can answer questions regarding the content of the dataset.
+- Creator: Creator of the dataset. 
+- Contributors: All those who contributed to the creation of the checklist
+- Version: to be updated every time  updates are made
+
+image::img/web/CLB-search.png[align=center]
+
+Then click “Save” at the bottom of the page. 
+
+Once the Project is created, its Alias will be visible in the menu bar at the left, under which are all the sub items of the project.
+
 
