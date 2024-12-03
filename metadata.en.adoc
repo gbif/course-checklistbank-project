@@ -11,7 +11,7 @@ Once created the project, ChecklistBank will display the overview metadata page.
 - Contributors: All those who contributed to the creation of the checklist
 - Version: to be updated every time  updates are made
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/metadata.png[align=center]
 
 Then click “Save” at the bottom of the page. 
 
