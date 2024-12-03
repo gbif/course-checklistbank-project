@@ -2,41 +2,33 @@
 == Description
 
 ****
-this is the description...
+ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF). 
 
-Topics include:
+A detailed tutorial of the general tools of ChecklistBank can be found https://docs.gbif-uat.org/course-checklistbank-tutorial/en/description.html[here].  
 
-* Topic
-* Topic
-* Topic
-* Topic
+Users can create and publish new datasets in ChecklistBank through two different ways:
 
-This course is comprised of ... 
-Second sentence...
+* Project: datasets constructed and managed within ChecklistBank
+* External: datasets created outside ChecklistBank and imported as FAIR data resources into the platform.
+
+Both external and project datasets benefit from many common features that ChecklistBank delivers as an open data infrastructure: standards compliance, validation and reporting, multiple download options, rich API support, etc.
+
+ChecklistBank users can use the Project functionality to create new Checklists from existing datasets hosted in ChecklistBank (also referred here as sources), combining them totally or partially. For example to create a national checklist, based on taxonomic checklists and articles from a specific country. 
+
+This tutorial describes the functions available for assembling a checklist and delivering it as a dataset. These tools are already in use to construct the Catalogue of life data product.
+
+Project functionality includes the following features: 
+
+* Interactive assembly process.
+* Include total or partial information from any other datasets in ChecklistBank.
+* Select or block specific parts from a any given dataset included in the project.
+* Synchronisation between the main project and the source dataset.
+* Stable static versions called releases, with stable record identifiers. 
+
+
 ****
 
 === Audience
-This course is for...
+This tutorial is for Biodiversity information systems, taxonomists, governmental entities, online platforms, and any other people or institutions interested in assembling a checklist from pre existing  lists in ChecklistBank.
 
-=== Prerequisites
 
-. prerequisite 1 if any
-
-. prerequisite 2 if any
-
-=== Learning objectives
-
-* Objective
-* Objective
-* Objective
-* Objective
-
-// inlude if needed, otherwise remove
-=== Certification
-
-Upon successful completion of the course and successful assessment of assignments (by trainers/mentors), participants have the opportunity to receive an official certification in the form of a Mozilla Open Badge.
-
-Participants are required to submit ... and it is scored against the educational rubrics for the course. 
-
-* An overall score of ??? earns a BASIC badge
-* An overall score of ??? earns an ADVANCED badge
