@@ -1,14 +1,30 @@
-[keydocs]
-== Key documentation
+[assembly]
+== Checklist assembly
 
-The following references provide further detail on the topics covered in this course
+Building a new checklist consists of several steps and tools, which are described below:
 
-*Topic 1*
+=== Add a root taxon
 
-* https://www.gbif.org/[GBIF.org]
-* Link 2
-* Link 3
-* Link 4
+To start the checklist assembly the highest taxonomic level  has to be established. Under the Alias of the project on the left menu select the Assembly subitem, click on the Add root button near the middle of the window. 
+
+IMAGE
+
+Enter the name “Lepidoptera” and click on 'Parse name'. 
+
+IMAGE
+
+A form will appear, change the _Rank_ to order. This will change the display to include the fields shown in the image. Complete these as follows:
+
+IMAGE
+
+* Name status: established
+* Authorship: Linnaeus, 1758
+
+Then click on ‘Submit’. 
+
+The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added. 
+
+IMAGE
 
 *Topic 2*
 
