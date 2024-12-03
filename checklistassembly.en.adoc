@@ -26,9 +26,4 @@ The project now includes a single taxon (the order Lepidoptera) with a yellow tr
 
 IMAGE
 
-*Topic 2*
 
-* Link 1
-* Link 2
-* Link 3
-* Link 4 
