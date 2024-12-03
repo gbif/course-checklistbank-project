@@ -1,18 +1,13 @@
-== Files for download
+== Creating a new project
 
-All files for the course may be downloaded from this page. 
-Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum. 
-The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos. 
-If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer.
+Go to Datasets on  the menu on the left side of the ChecklistBank window, and then click on ‘+New Dataset’. 
 
-=== Videos
-The videos are narrated in English. Subtitles are not available for the downloaded videos.
+IMAGE
 
-link:../videos/linkname.zip[linkname.zip,opts=download] (??.? MB)
+Complete the form:
 
-=== Exercise data
-This link:../exercise-data/ExerciseData.zip[compressed file,opts=download] (ZIP ??.? MB) contains the exercise data. 
+* Set a meaningful and clear title. For this tutorial use: your name followed by "Moths of the World".
+* Select "project" for the Dataset Origin and "taxonomic" for the Dataset Type. 
+* Set a Creative Commons licence for the project: “cc by” is appropriate since none of the four source datasets of this tutorial have more restrictive licences. It is important to consider that the licences of the source datasets must be compatible, that is, if the base source has a less restrictive licence, it will not be possible to integrate information from a more restrictive source. The licence of the project can be changed at any time. 
+* Click “Save”. 
 
-=== Exercise sheets
-This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP ?.? MB) contains the exercise sheet(s). 
-The exercises sheets are written in English and should be completed in English.
