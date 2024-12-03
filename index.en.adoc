@@ -40,6 +40,4 @@ include::checklistassembly.en.adoc[]
 include::colophon.en.adoc[]
 :sectnums!:
 
-include::acknowledgements.en.adoc[]
 
-include::colophon.en.adoc[]
