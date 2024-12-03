@@ -38,6 +38,6 @@ include::metadata.en.adoc[]
 include::checklistassembly.en.adoc[]
 
 include::colophon.en.adoc[]
-:sectnums!:
+
 
 
