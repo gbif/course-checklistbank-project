@@ -1,4 +1,4 @@
- [multipage-level=1]
+[multipage-level=1]
 == Checklist assembly
 
 Building a new checklist consists of several steps and tools, which are described below:
