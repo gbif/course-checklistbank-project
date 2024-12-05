@@ -2,7 +2,7 @@
 
 == Metadata
 
-Once created the project, ChecklistBank will display the overview metadata page. Click on  “Edit” at the top right of the left menu to add metadata. Fill in as much detail as possible,  specially in the following fields taking into account the following best practices:
+Once created the project, ChecklistBank will display the overview metadata page. Click on 'Edit' at the top right of the left menu to add metadata. Fill in as much detail as possible,  specially in the following fields taking into account the following best practices:
 
 - Give the project your own unique Alias – this will make it easier to locate in later steps. Consider using camelCase and spaces; avoid ALL CAPS and underscores.
 - Description: A brief summary of the content and scope of the dataset.
@@ -13,7 +13,7 @@ Once created the project, ChecklistBank will display the overview metadata page.
 
 image::img/web/metadata.png[align=center]
 
-Then click “Save” at the bottom of the page. 
+Then click 'Save' at the bottom of the page. 
 
 Once the Project is created, its Alias will be visible in the menu bar at the left, under which are all the sub items of the project.
 
