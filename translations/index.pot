@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-05 17:45+0000\n"
+"POT-Creation-Date: 2024-12-05 17:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -296,9 +296,12 @@ msgid ""
 "then click on ‘+New Dataset’."
 msgstr ""
 
-#. type: Plain text
-#: creatingaproject.en.adoc:6
-msgid "IMAGE"
+#. type: Target for macro image
+#: creatingaproject.en.adoc:5 checklistassembly.en.adoc:10
+#: checklistassembly.en.adoc:14 checklistassembly.en.adoc:21
+#: checklistassembly.en.adoc:27
+#, no-wrap
+msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
@@ -334,7 +337,7 @@ msgstr ""
 
 #. type: Plain text
 #: creatingaproject.en.adoc:13
-msgid "Click “Save”."
+msgid "Click 'Save'."
 msgstr ""
 
 #. type: Title ==
@@ -431,13 +434,6 @@ msgid ""
 "established. Under the Alias of the project on the left menu select the "
 "Assembly subitem, click on the Add root button near the middle of the "
 "window."
-msgstr ""
-
-#. type: Target for macro image
-#: checklistassembly.en.adoc:10 checklistassembly.en.adoc:14
-#: checklistassembly.en.adoc:21 checklistassembly.en.adoc:27
-#, no-wrap
-msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
