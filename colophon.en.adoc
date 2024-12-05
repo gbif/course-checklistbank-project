@@ -1,24 +1,33 @@
 == Colophon
 
 === Suggested citation
+Hobern D., Hernández D., Plata C., Bánki O., Döring M., Stjernegaard T., & Miller J (2024). ChecklistBank Project Tutorial.  A tool to build and curate checklists.  version 1. https://doi.org/10.10.#####/####.
 
-GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen.
-// Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 [Date of course.]
+
+=== Authors
+Donald Hobern, Diana Hernández, Camila Plata, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen and Joe Miller.
 
 === Contributors
 
-The _Course Name_ was originally developed as part of ..., a programme funded by the ... The original curriculum was created by Name 1, Name 2, Name 3.
+This tutorial was developed to document the project functionality of ChecklistBank to support registered users interested in generating a new checklist based on the datasets available in the platform. Catalogue of Life acknowledges the European Commission funded project Biodiversity Community Integrated Knowledge Library (BiCIKL) (grant number 101007492), and support from the Netherlands Biodiversity Information Facility.
 
 === Licence
 
-_Course Name_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The ChecklistBank Project Tutorial is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 // Uncomment once a DOI is assigned.
 //=== Persistent URI
 //
-//https://doi.org/10.EXAMPLE/EXAMPLE
+//https://doi.org/10.10.#####/####.
 
 === Document control
 
-Third edition, April 2020
+First edition, December 2024
+
+[cols="3*^.^a",frame=none,grid=none]
+|=======================
+|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]
+|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]
+|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]
+|=======================

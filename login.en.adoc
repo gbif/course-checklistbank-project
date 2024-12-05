@@ -1,0 +1,12 @@
+[multipage-level=2]
+== ChecklistBank login
+
+All registered users on GBIF can login on ChecklistBank:
+
+. Go to https://www.checklistbank.org/
+. Click on Login (top right)
+. Login with your GBIF account +
+
+If you don’t have a GBIF account yet, use the  register at https://www.gbif.org/[gbif.org] now!
+
+image::img/web/CLB-front.png[align=center,width=640,height=360]

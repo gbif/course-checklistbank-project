@@ -1,0 +1,22 @@
+[multipage-level=2]
+== Use case
+
+In this tutorial you are going to explore features available to users through ChecklistBank  by creating a new Moth dataset. 
+You will use four existing Lepidoptera (moth and butterfly) datasets in ChecklistBank. The three-letter abbreviations GLI, ALU, PHR and GAR will be used through the rest of this tutorial to refer to the following datasets:  
+
+* GLI: https://www.checklistbank.org/dataset/55434/about[Global Lepidoptera Index] – the primary dataset used in the Catalogue of Life Checklist for most groups of moths and butterflies 
+
+* ALU: https://www.checklistbank.org/dataset/2207/about[Catalogue of the Alucitoidea of the World] – the dataset used in the Catalogue of Life Checklist for the many-plume moths (superfamily Alucitoidea) 
+
+* PHR: https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
+
+* GAR : https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
+
+You will use ChecklistBank tools to structure a new moth dataset based on GLI and then modify it in the following ways: 
+
+* Exclude the butterfly superfamily Papilionoidea, to create a “moth”-only dataset. 
+* Replace the Alucitoidea section in GLI with the version in ALU .
+* Replace the Phragmataecia section in GLI (in the family Cossidae) with the version in PHR.
+* Merge new species from GAR with those already in the Gargela section in GLI.
+
+The tutorial will finally show how the resulting dataset can be exported.

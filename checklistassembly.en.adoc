@@ -1,0 +1,47 @@
+[multipage-level=1]
+== Checklist assembly
+
+Building a new checklist consists of several steps and tools, which are described below:
+
+=== 3.1 Add a root taxon
+
+To start the checklist assembly the highest taxonomic level  has to be established. Under the Alias of the project on the left menu select the  Assembly subitem, click on the Add root button near the middle of the window. 
+
+image::img/web/CLB-search.png[align=center]
+
+Enter the name “Lepidoptera” and click on Parse name. 
+
+image::img/web/CLB-search.png[align=center]
+
+A form will appear, change the Rank to order. This will change the display to include the fields shown in the image. Complete these as follows:
+
+- Name status: established
+- Authorship: Linnaeus, 1758
+
+image::img/web/CLB-search.png[align=center]
+
+
+Then click on Submit. 
+The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added. 
+
+image::img/web/CLB-search.png[align=center]
+
+=== 3.2 Add and manage sectors
+
+The building blocks for a ChecklistBank project are called  Sectors, these can be created by adding an entire dataset or a specific taxonomic group within a dataset. You can create as many sectors as needed, this gives maximum flexibility to assemble the project. There are several methods  to add sectors to the assembly:
+
+- *Union*: add all the descendants of the subject taxon, and ignores the name of the subject itself
+- *Attach*: adds the subject taxon and all its descendants
+- *Merge*: enriches the existing assembly with additional information provided by the selected sector like, new names, synonyms, authorships, and references among others.
+
+There are also several editorial decisions that can be made over any taxon on the project:
+
+- *Block*: Ignores the selected name and its children.
+- *Ignore*: Only the selected name is ignored.
+- *Review*: Marks  that the selected name has already been reviewed and does not require changes.
+
+==== 3.2.1 Union 
+You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the  Add sectors option is selected at the top of the window. 
+On the search box on the right side of the window, enter “GLI” or  “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a couple of seconds for the drop down list of datasets to appear.
+
+

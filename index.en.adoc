@@ -1,4 +1,5 @@
-= Course name
+= ChecklistBank Project: A tool to build and curate checklists
+Catalogue of Life <support@catalogueoflife.org>
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
@@ -7,7 +8,7 @@ GBIF Secretariat <training@gbif.org>
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
-:title-logo-image: img/web/photo.jpg
+:title-page-background-image: image::img/logos/clb-col-dark.svg[position=top center]
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 :docinfo: shared-head
 // :stylesheet: /adoc/gbif-stylesheet/stylesheets/gbif-training.css
@@ -19,34 +20,24 @@ endif::backend-pdf[]
 // add cover image to img directory and update filename below
 ifndef::backend-pdf[]
 :figure-caption!:
-.this is the image caption
-image::img/web/photo.jpg[align=center,width=640,height=360]
+image::img/logos/clb-col-dark.svg[align=center,width=640,height=360]
 endif::backend-pdf[]
 
 :sectnums!:
 
 include::description.en.adoc[]
 
-include::downloads.en.adoc[]
+include::login.en.adoc[]
 
-:sectnums:
+include::usecase.en.adoc[]
 
-include::100.en.adoc[]
+include::creatingaproject.en.adoc[]
 
-include::200.en.adoc[]
+include::metadata.en.adoc[]
 
-include::300.en.adoc[]
-
-:sectnums!:
-
-include::course-evaluation.en.adoc[]
-
-include::keydocs.en.adoc[]
-
-include::glossary.en.adoc[]
-
-include::solutions.en.adoc[]
-
-include::acknowledgements.en.adoc[]
+include::checklistassembly.en.adoc[]
 
 include::colophon.en.adoc[]
+
+
+
