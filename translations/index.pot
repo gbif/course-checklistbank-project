@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-05 09:43+0000\n"
+"POT-Creation-Date: 2024-12-05 17:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,13 +41,13 @@ msgid "img/logos/clb-col-dark.svg"
 msgstr ""
 
 #. type: Title ==
-#: description.en.adoc:2
+#: description.en.adoc:3
 #, no-wrap
 msgid "Description"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:6
+#: description.en.adoc:7
 msgid ""
 "ChecklistBank is a platform that supports the publication, analysis, and "
 "curation of checklists with emphasis in taxonomic and nomenclatural data. It "
@@ -57,33 +57,33 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:8
+#: description.en.adoc:9
 msgid ""
 "A detailed tutorial of the general tools of ChecklistBank can be found "
-"https://docs.gbif-uat.org/course-checklistbank-tutorial/en/description.html[here]."
+"https://doi.org/10.35035/ce-9sw4-e095[here]."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:10
+#: description.en.adoc:11
 msgid ""
 "Users can create and publish new datasets in ChecklistBank through two "
 "different ways:"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:12
+#: description.en.adoc:13
 msgid "Project: datasets constructed and managed within ChecklistBank"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:13
+#: description.en.adoc:14
 msgid ""
 "External: datasets created outside ChecklistBank and imported as FAIR data "
 "resources into the platform."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:15
+#: description.en.adoc:16
 msgid ""
 "Both external and project datasets benefit from many common features that "
 "ChecklistBank delivers as an open data infrastructure: standards compliance, "
@@ -91,7 +91,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:17
+#: description.en.adoc:18
 msgid ""
 "ChecklistBank users can use the Project functionality to create new "
 "Checklists from existing datasets hosted in ChecklistBank (also referred "
@@ -101,7 +101,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:19
+#: description.en.adoc:20
 msgid ""
 "This tutorial describes the functions available for assembling a checklist "
 "and delivering it as a dataset. These tools are already in use to construct "
@@ -109,47 +109,47 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:21
+#: description.en.adoc:22
 msgid "Project functionality includes the following features:"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:23
+#: description.en.adoc:24
 msgid "Interactive assembly process."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:24
+#: description.en.adoc:25
 msgid ""
 "Include total or partial information from any other datasets in "
 "ChecklistBank."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:25
+#: description.en.adoc:26
 msgid ""
 "Select or block specific parts from a any given dataset included in the "
 "project."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:26
+#: description.en.adoc:27
 msgid "Synchronisation between the main project and the source dataset."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:27
+#: description.en.adoc:28
 msgid "Stable static versions called releases, with stable record identifiers."
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:31
+#: description.en.adoc:32
 #, no-wrap
 msgid "Audience"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:33
+#: description.en.adoc:34
 msgid ""
 "This tutorial is for Biodiversity information systems, taxonomists, "
 "governmental entities, online platforms, and any other people or "
