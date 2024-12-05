@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-05 09:43+0000\n"
-"PO-Revision-Date: 2024-12-05 11:13\n"
+"POT-Creation-Date: 2024-12-05 17:47+0000\n"
+"PO-Revision-Date: 2024-12-05 17:52\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -39,89 +39,89 @@ msgid "img/logos/clb-col-dark.svg"
 msgstr ""
 
 #. type: Title ==
-#: description.en.adoc:2
+#: description.en.adoc:3
 #, no-wrap
 msgid "Description"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:6
+#: description.en.adoc:7
 msgid "ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF)."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:8
-msgid "A detailed tutorial of the general tools of ChecklistBank can be found https://docs.gbif-uat.org/course-checklistbank-tutorial/en/description.html[here]."
+#: description.en.adoc:9
+msgid "A detailed tutorial of the general tools of ChecklistBank can be found https://doi.org/10.35035/ce-9sw4-e095[here]."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:10
+#: description.en.adoc:11
 msgid "Users can create and publish new datasets in ChecklistBank through two different ways:"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:12
+#: description.en.adoc:13
 msgid "Project: datasets constructed and managed within ChecklistBank"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:13
+#: description.en.adoc:14
 msgid "External: datasets created outside ChecklistBank and imported as FAIR data resources into the platform."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:15
+#: description.en.adoc:16
 msgid "Both external and project datasets benefit from many common features that ChecklistBank delivers as an open data infrastructure: standards compliance, validation and reporting, multiple download options, rich API support, etc."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:17
+#: description.en.adoc:18
 msgid "ChecklistBank users can use the Project functionality to create new Checklists from existing datasets hosted in ChecklistBank (also referred here as sources), combining them totally or partially. For example to create a national checklist, based on taxonomic checklists and articles from a specific country."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:19
+#: description.en.adoc:20
 msgid "This tutorial describes the functions available for assembling a checklist and delivering it as a dataset. These tools are already in use to construct the Catalogue of life data product."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:21
+#: description.en.adoc:22
 msgid "Project functionality includes the following features:"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:23
+#: description.en.adoc:24
 msgid "Interactive assembly process."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:24
+#: description.en.adoc:25
 msgid "Include total or partial information from any other datasets in ChecklistBank."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:25
+#: description.en.adoc:26
 msgid "Select or block specific parts from a any given dataset included in the project."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:26
+#: description.en.adoc:27
 msgid "Synchronisation between the main project and the source dataset."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:27
+#: description.en.adoc:28
 msgid "Stable static versions called releases, with stable record identifiers."
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:31
+#: description.en.adoc:32
 #, no-wrap
 msgid "Audience"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:33
+#: description.en.adoc:34
 msgid "This tutorial is for Biodiversity information systems, taxonomists, governmental entities, online platforms, and any other people or institutions interested in assembling a checklist from pre existing lists in ChecklistBank."
 msgstr ""
 
@@ -234,9 +234,12 @@ msgstr ""
 msgid "Go to Datasets on the menu on the left side of the ChecklistBank window, and then click on ‘+New Dataset’."
 msgstr ""
 
-#. type: Plain text
-#: creatingaproject.en.adoc:6
-msgid "IMAGE"
+#. type: Target for macro image
+#: creatingaproject.en.adoc:5 checklistassembly.en.adoc:10
+#: checklistassembly.en.adoc:14 checklistassembly.en.adoc:21
+#: checklistassembly.en.adoc:27
+#, no-wrap
+msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
@@ -261,7 +264,7 @@ msgstr ""
 
 #. type: Plain text
 #: creatingaproject.en.adoc:13
-msgid "Click “Save”."
+msgid "Click 'Save'."
 msgstr ""
 
 #. type: Title ==
@@ -272,7 +275,7 @@ msgstr ""
 
 #. type: Plain text
 #: metadata.en.adoc:6
-msgid "Once created the project, ChecklistBank will display the overview metadata page. Click on “Edit” at the top right of the left menu to add metadata. Fill in as much detail as possible, specially in the following fields taking into account the following best practices:"
+msgid "Once created the project, ChecklistBank will display the overview metadata page. Click on 'Edit' at the top right of the left menu to add metadata. Fill in as much detail as possible, specially in the following fields taking into account the following best practices:"
 msgstr ""
 
 #. type: Plain text
@@ -313,7 +316,7 @@ msgstr ""
 
 #. type: Plain text
 #: metadata.en.adoc:17
-msgid "Then click “Save” at the bottom of the page."
+msgid "Then click 'Save' at the bottom of the page."
 msgstr ""
 
 #. type: Plain text
@@ -341,13 +344,6 @@ msgstr ""
 #. type: Plain text
 #: checklistassembly.en.adoc:9
 msgid "To start the checklist assembly the highest taxonomic level has to be established. Under the Alias of the project on the left menu select the Assembly subitem, click on the Add root button near the middle of the window."
-msgstr ""
-
-#. type: Target for macro image
-#: checklistassembly.en.adoc:10 checklistassembly.en.adoc:14
-#: checklistassembly.en.adoc:21 checklistassembly.en.adoc:27
-#, no-wrap
-msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
