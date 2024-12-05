@@ -21,7 +21,7 @@ A form will appear, change the Rank to order. This will change the display to in
 image::img/web/CLB-search.png[align=center]
 
 
-Then click on Submit. 
+Then click on 'Submit'. 
 The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added. 
 
 image::img/web/CLB-search.png[align=center]
@@ -41,7 +41,99 @@ There are also several editorial decisions that can be made over any taxon on th
 - *Review*: Marks  that the selected name has already been reviewed and does not require changes.
 
 ==== 3.2.1 Union 
+
 You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the  Add sectors option is selected at the top of the window. 
+
 On the search box on the right side of the window, enter “GLI” or  “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a couple of seconds for the drop down list of datasets to appear.
+
+image::img/web/CLB-search.png[align=center]
+
+The right side of the window will refresh with the hierarchy for GLI. 
+
+image::img/web/CLB-search.png[align=center]
+
+Select Lepidoptera on the right and drag it across onto or immediately below Lepidoptera on the left. You will be asked to specify how the GLI Lepidoptera should be added as a project sector. Select 'Union'. 
+
+image::img/web/CLB-search.png[align=center]
+
+The left side of the window will refresh to show that Lepidoptera is now sourced from GLI and will list just the first five children of GLI as an indication of content. The coloured labels will allow GLI to be distinguished easily from other sectors as they are added. 
+
+image::img/web/CLB-search.png[align=center]
+
+
+=== 3.2.2 Block
+
+Now you are going to add a decision to exclude some parts from GLI: the superfamily Papilionoidea, the superfamily Alucitoidea and the genus Phragmataecia. 
+Click on the 'Source' item in the menu at the left of the ChecklistBank window. This will open a Select option with a second blue cog. Click on the cog.  
+
+image::img/web/CLB-search.png[align=center]
+
+You only have one sector in your project (GLI). Select this from the pop up search window.
+
+
+image::img/web/CLB-search.png[align=center]
+
+A new view of GLI will appear next to a blue cog. This shows us the active source dataset for workbench operations. As more sectors are added, clicking again on the cog will allow you to switch source dataset.  
+
+The initial view shows the Issues known for the dataset. GLI is very large and still being actively curated, so there are many of these, but they can be ignored for this tutorial. 
+
+image::img/web/CLB-search.png[align=center]
+
+Select the 'Workbench´ subitem for the Source view of GLI. The workbench shows all of the taxa that will be included in your project dataset from GLI. 
+
+image::img/web/CLB-search.png[align=center]
+
+Type “Papilionoidea” in the Search box at the top of the window and hit Enter. The record for the butterfly superfamily Papilionoidea will be the only one shown. You can alternatively filter taxa using ranks or higher taxon or other options that can be selected by clicking on 'Advanced'. 
+
+
+image::img/web/CLB-search.png[align=center]
+
+Select "Block" from the dropdown at the left above the taxon list (just below “Reset search”). 
+
+image::img/web/CLB-search.png[align=center]
+
+Select "Papilionoidea" from the list and click on 'Apply selected decision'.
+
+image::img/web/CLB-search.png[align=center]
+
+If you click now on ‘Reset search’ (the red button on the left) and the ‘With decision’ radio button on the right, you will see that you have now specified a single decision, that Papilionoidea should be blocked. The same information can also be seen if you click on the Decisions subitem under the project menu.
+
+image::img/web/CLB-search.png[align=center]
+
+ 
+When you populate the dataset, this decision will be honoured. 
+
+Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and the genus Phragmataecia. 
+
+image::img/web/CLB-search.png[align=center]
+
+=== 3.2.3  Attach 
+
+Unlike GLI, the dataset Catalogue of the Alucitoidea of the World (ALU) includes higher classification all the way up to the kingdom, thus you are going to replace  GLI Alucitoidea sector with ALU source. 
+
+In the project, select the Assembly subitem at the left  and make sure the  Add sectors view is selected (at the top of the window). Enter “Alucitoidea” in the search field on the right, wait a couple of seconds for the drop down list of datasets to appear, and select the first dataset (id:2207). 
+
+image::img/web/CLB-search.png[align=center]
+ 
+Select the small arrows next to each name until the superfamily Alucitoidea appears. Alternatively, type “Alucitoidea” in the second search box on the right of the window and select it directly.
+
+image::img/web/CLB-search.png[align=center]
+
+Drag Alucitoidea from ALU on the right onto Lepidoptera in your project on the left. Select Attach to include it as a child taxon. 
+
+image::img/web/CLB-search.png[align=center]
+
+The project display will now show that you have added two sectors. Note also the blue eye symbol and source link at the top right. This is a quick way to select the current dataset as the current source dataset in the Source submenu. 
+
+image::img/web/CLB-search.png[align=center]
+
+
+image::img/web/CLB-search.png[align=center]
+
+
+
+
+
+
 
 
