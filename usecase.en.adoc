@@ -8,9 +8,9 @@ You will use four existing Lepidoptera (moth and butterfly) datasets in Checklis
 
 * ALU: https://www.checklistbank.org/dataset/2207/about[Catalogue of the Alucitoidea of the World] – the dataset used in the Catalogue of Life Checklist for the many-plume moths (superfamily Alucitoidea) 
 
-* PHR: https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
+* PHR (id: PLZ31420) https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
 
-* GAR : https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
+* GAR (id: PLZ41041): https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
 
 You will use ChecklistBank tools to structure a new moth dataset based on GLI and then modify it in the following ways: 
 
