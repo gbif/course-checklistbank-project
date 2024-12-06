@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-06 19:03+0000\n"
+"POT-Creation-Date: 2024-12-06 19:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -231,20 +231,21 @@ msgstr ""
 #. type: Plain text
 #: usecase.en.adoc:12
 msgid ""
-"PHR: https://www.checklistbank.org/dataset/31420/about[A world catalogue of "
-"Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan "
-"and Kyrgyzstan – a dataset summarising the names currently accepted for a "
-"moth genus, extracted by Plazi from a paper in the journal Zootaxa"
+"PHR (id: PLZ31420) https://www.checklistbank.org/dataset/31420/about[A world "
+"catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from "
+"Kazakhstan and Kyrgyzstan – a dataset summarising the names currently "
+"accepted for a moth genus, extracted by Plazi from a paper in the journal "
+"Zootaxa"
 msgstr ""
 
 #. type: Plain text
 #: usecase.en.adoc:14
 msgid ""
-"GAR : https://www.checklistbank.org/dataset/41041/about[A review of the "
-"genus Gargela Walker in China, with descriptions of ten new species "
-"(Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of "
-"Chinese species a moth genus, extracted by Plazi from a paper in the journal "
-"Zootaxa"
+"GAR (id: PLZ41041): https://www.checklistbank.org/dataset/41041/about[A "
+"review of the genus Gargela Walker in China, with descriptions of ten new "
+"species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the "
+"names of Chinese species a moth genus, extracted by Plazi from a paper in "
+"the journal Zootaxa"
 msgstr ""
 
 #. type: Plain text
