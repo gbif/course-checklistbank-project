@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-05 18:36+0000\n"
-"PO-Revision-Date: 2024-12-05 18:52\n"
+"POT-Creation-Date: 2024-12-06 19:03+0000\n"
+"PO-Revision-Date: 2024-12-06 19:05\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -246,7 +246,9 @@ msgstr ""
 #: checklistassembly.en.adoc:101 checklistassembly.en.adoc:108
 #: checklistassembly.en.adoc:116 checklistassembly.en.adoc:120
 #: checklistassembly.en.adoc:124 checklistassembly.en.adoc:128
-#: checklistassembly.en.adoc:131
+#: checklistassembly.en.adoc:138 checklistassembly.en.adoc:142
+#: checklistassembly.en.adoc:147 checklistassembly.en.adoc:153
+#: checklistassembly.en.adoc:158
 #, no-wrap
 msgid "img/web/CLB-search.png"
 msgstr ""
@@ -463,7 +465,7 @@ msgstr ""
 msgid "The left side of the window will refresh to show that Lepidoptera is now sourced from GLI and will list just the first five children of GLI as an indication of content. The coloured labels will allow GLI to be distinguished easily from other sectors as they are added."
 msgstr ""
 
-#. type: Title ===
+#. type: Title ====
 #: checklistassembly.en.adoc:64
 #, no-wrap
 msgid "3.2.2 Block"
@@ -524,7 +526,7 @@ msgstr ""
 msgid "Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and the genus Phragmataecia."
 msgstr ""
 
-#. type: Title ===
+#. type: Title ====
 #: checklistassembly.en.adoc:110
 #, no-wrap
 msgid "3.2.3  Attach "
@@ -553,6 +555,57 @@ msgstr ""
 #. type: Plain text
 #: checklistassembly.en.adoc:127
 msgid "The project display will now show that you have added two sectors. Note also the blue eye symbol and source link at the top right. This is a quick way to select the current dataset as the current source dataset in the Source submenu."
+msgstr ""
+
+#. type: Title ====
+#: checklistassembly.en.adoc:130
+#, no-wrap
+msgid "3.2.4 Synchronisation"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:133
+msgid "At this point the tool only shows an overview of the higher classification, to continue creating sectors at a more specific level it is best to synchronize all sectors so the entire assembly can be explored and managed."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:135
+msgid "Select the Sectors item in the menu at the left below the alias of your project. This view allows you to synchronise the content from each sector into your project."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:137
+msgid "Select the 'Sync all sectors' button and click 'Yes'."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:141
+msgid "Return to the Assembly subitem. You will see the view of the project contents beginning to be updated. This will take several minutes, grab a cup of coffee and wait for it to complete. You can Refresh the display to see progress."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:145
+msgid "Alternatively, you may click on the double arrowed circle on the top right and see the Sync state."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:150
+msgid "Now let's Attach a new sector."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:152
+msgid "In the Assembly > Add sectors view, search on the left side for the tribe Zeuzerini and on the right search for Phragmataecia and select dataset PLZ31420 (PHR)."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:156
+msgid "Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the project. Select Attach to insert the genus as a new sector."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:162
+msgid "A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa."
 msgstr ""
 
 #. type: Title ==
