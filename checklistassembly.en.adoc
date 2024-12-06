@@ -61,7 +61,7 @@ The left side of the window will refresh to show that Lepidoptera is now sourced
 image::img/web/CLB-search.png[align=center]
 
 
-=== 3.2.2 Block
+==== 3.2.2 Block
 
 Now you are going to add a decision to exclude some parts from GLI: the superfamily Papilionoidea, the superfamily Alucitoidea and the genus Phragmataecia. 
 Click on the 'Source' item in the menu at the left of the ChecklistBank window. This will open a Select option with a second blue cog. Click on the cog.  
@@ -107,7 +107,7 @@ Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for
 
 image::img/web/CLB-search.png[align=center]
 
-=== 3.2.3  Attach 
+==== 3.2.3  Attach 
 
 Unlike GLI, the dataset Catalogue of the Alucitoidea of the World (ALU) includes higher classification all the way up to the kingdom, thus you are going to replace  GLI Alucitoidea sector with ALU source. 
 
@@ -127,13 +127,38 @@ The project display will now show that you have added two sectors. Note also the
 
 image::img/web/CLB-search.png[align=center]
 
+==== 3.2.4 Synchronisation
+
+At this point the tool only shows an overview of the higher classification, to continue creating sectors at a more specific level it is best to synchronize all sectors so the entire assembly can be explored and managed.
+
+Select the Sectors item in the menu at the left below the alias of your project. This view allows you to synchronise the content from each sector into your project. 
+
+Select the 'Sync all sectors' button and click 'Yes'. 
+
+image::img/web/CLB-search.png[align=center]
+
+Return to the Assembly subitem. You will see the view of the project contents beginning to be updated. This will take several minutes, grab a cup of coffee and wait for it to complete. You can Refresh the display to see progress.  
+
+image::img/web/CLB-search.png[align=center]
+
+Alternatively, you may click on the double arrowed circle on the top right and see the Sync state. 
+
+
+image::img/web/CLB-search.png[align=center]
+
+Now let's Attach a new sector.
+
+In the Assembly > Add sectors view, search on the left side for the tribe Zeuzerini and on the right search for Phragmataecia and select dataset PLZ31420 (PHR). 
+
+image::img/web/CLB-search.png[align=center]
+
+Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the project. Select  Attach to insert the genus as a new sector. 
+
 
 image::img/web/CLB-search.png[align=center]
 
 
-
-
-
+A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa. 
 
 
 
