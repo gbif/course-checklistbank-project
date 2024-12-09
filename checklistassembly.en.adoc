@@ -7,24 +7,24 @@ Building a new checklist consists of several steps and tools, which are describe
 
 To start the checklist assembly the highest taxonomic level  has to be established. Under the Alias of the project on the left menu select the  Assembly subitem, click on the Add root button near the middle of the window. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/assembly_fisrt_view.png[align=center]
 
 Enter the name “Lepidoptera” and click on Parse name. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/add_root.png[align=center]
 
 A form will appear, change the Rank to order. This will change the display to include the fields shown in the image. Complete these as follows:
 
 - Name status: established
 - Authorship: Linnaeus, 1758
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/add_root2.png[align=center]
 
 
 Then click on 'Submit'. 
 The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/assembly_with_root.png[align=center]
 
 === 3.2 Add and manage sectors
 
@@ -46,20 +46,19 @@ You will start by adding the base tree, GLI, as the first sector with the union 
 
 On the search box on the right side of the window, enter “GLI” or  “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a couple of seconds for the drop down list of datasets to appear.
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/add_GLI.png[align=center]
 
 The right side of the window will refresh with the hierarchy for GLI. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/view_GLI.png[align=center]
 
 Select Lepidoptera on the right and drag it across onto or immediately below Lepidoptera on the left. You will be asked to specify how the GLI Lepidoptera should be added as a project sector. Select 'Union'. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/union_GLI.png[align=center]
 
 The left side of the window will refresh to show that Lepidoptera is now sourced from GLI and will list just the first five children of GLI as an indication of content. The coloured labels will allow GLI to be distinguished easily from other sectors as they are added. 
 
-image::img/web/CLB-search.png[align=center]
-
+image::img/web/assembly_GLI_view.png[align=center]
 
 ==== 3.2.2 Block
 
