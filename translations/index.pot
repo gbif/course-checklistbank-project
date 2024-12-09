@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-09 19:32+0000\n"
+"POT-Creation-Date: 2024-12-09 19:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -298,24 +298,9 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: creatingaproject.en.adoc:5 checklistassembly.en.adoc:10
-#: checklistassembly.en.adoc:14 checklistassembly.en.adoc:21
-#: checklistassembly.en.adoc:27 checklistassembly.en.adoc:49
-#: checklistassembly.en.adoc:53 checklistassembly.en.adoc:57
-#: checklistassembly.en.adoc:61 checklistassembly.en.adoc:69
-#: checklistassembly.en.adoc:74 checklistassembly.en.adoc:80
-#: checklistassembly.en.adoc:84 checklistassembly.en.adoc:89
-#: checklistassembly.en.adoc:93 checklistassembly.en.adoc:97
-#: checklistassembly.en.adoc:101 checklistassembly.en.adoc:108
-#: checklistassembly.en.adoc:116 checklistassembly.en.adoc:120
-#: checklistassembly.en.adoc:124 checklistassembly.en.adoc:128
-#: checklistassembly.en.adoc:138 checklistassembly.en.adoc:142
-#: checklistassembly.en.adoc:147 checklistassembly.en.adoc:153
-#: checklistassembly.en.adoc:158 checklistassembly.en.adoc:163
-#: checklistassembly.en.adoc:173 checklistassembly.en.adoc:177
-#: checklistassembly.en.adoc:181
+#: creatingaproject.en.adoc:5
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/datasets_page.png"
 msgstr ""
 
 #. type: Plain text
@@ -352,6 +337,12 @@ msgstr ""
 #. type: Plain text
 #: creatingaproject.en.adoc:13
 msgid "Click 'Save'."
+msgstr ""
+
+#. type: Target for macro image
+#: creatingaproject.en.adoc:14
+#, no-wrap
+msgid "img/web/create_dataset.png"
 msgstr ""
 
 #. type: Title ==
@@ -448,6 +439,26 @@ msgid ""
 "established. Under the Alias of the project on the left menu select the "
 "Assembly subitem, click on the Add root button near the middle of the "
 "window."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:10 checklistassembly.en.adoc:14
+#: checklistassembly.en.adoc:21 checklistassembly.en.adoc:27
+#: checklistassembly.en.adoc:49 checklistassembly.en.adoc:53
+#: checklistassembly.en.adoc:57 checklistassembly.en.adoc:61
+#: checklistassembly.en.adoc:69 checklistassembly.en.adoc:74
+#: checklistassembly.en.adoc:80 checklistassembly.en.adoc:84
+#: checklistassembly.en.adoc:89 checklistassembly.en.adoc:93
+#: checklistassembly.en.adoc:97 checklistassembly.en.adoc:101
+#: checklistassembly.en.adoc:108 checklistassembly.en.adoc:116
+#: checklistassembly.en.adoc:120 checklistassembly.en.adoc:124
+#: checklistassembly.en.adoc:128 checklistassembly.en.adoc:138
+#: checklistassembly.en.adoc:142 checklistassembly.en.adoc:147
+#: checklistassembly.en.adoc:153 checklistassembly.en.adoc:158
+#: checklistassembly.en.adoc:163 checklistassembly.en.adoc:173
+#: checklistassembly.en.adoc:177 checklistassembly.en.adoc:181
+#, no-wrap
+msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
