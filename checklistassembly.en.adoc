@@ -109,19 +109,19 @@ Unlike GLI, the dataset Catalogue of the Alucitoidea of the World (ALU) includes
 
 In the project, select the Assembly subitem at the left  and make sure the  Add sectors view is selected (at the top of the window). Enter “Alucitoidea” in the search field on the right, wait a couple of seconds for the drop down list of datasets to appear, and select the first dataset (id:2207). 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/attach1.png[align=center]
  
 Select the small arrows next to each name until the superfamily Alucitoidea appears. Alternatively, type “Alucitoidea” in the second search box on the right of the window and select it directly.
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/attach2.png[align=center]
 
 Drag Alucitoidea from ALU on the right onto Lepidoptera in your project on the left. Select Attach to include it as a child taxon. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/attach3.png[align=center]
 
 The project display will now show that you have added two sectors. Note also the blue eye symbol and source link at the top right. This is a quick way to select the current dataset as the current source dataset in the Source submenu. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/attach4.png[align=center]
 
 ==== 3.2.4 Synchronisation
 
