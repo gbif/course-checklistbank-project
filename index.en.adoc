@@ -37,6 +37,8 @@ include::metadata.en.adoc[]
 
 include::checklistassembly.en.adoc[]
 
+include::releasedownload.en.adoc[]
+
 include::colophon.en.adoc[]
 
 
