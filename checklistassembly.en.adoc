@@ -65,46 +65,43 @@ image::img/web/assembly_GLI_view.png[align=center]
 Now you are going to add a decision to exclude some parts from GLI: the superfamily Papilionoidea, the superfamily Alucitoidea and the genus Phragmataecia. 
 Click on the 'Source' item in the menu at the left of the ChecklistBank window. This will open a Select option with a second blue cog. Click on the cog.  
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/block1.png[align=center]
 
 You only have one sector in your project (GLI). Select this from the pop up search window.
 
-
-image::img/web/CLB-search.png[align=center]
+image::img/web/block2.png[align=center]
 
 A new view of GLI will appear next to a blue cog. This shows us the active source dataset for workbench operations. As more sectors are added, clicking again on the cog will allow you to switch source dataset.  
 
 The initial view shows the Issues known for the dataset. GLI is very large and still being actively curated, so there are many of these, but they can be ignored for this tutorial. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/view_issues.png[align=center]
 
 Select the 'Workbench´ subitem for the Source view of GLI. The workbench shows all of the taxa that will be included in your project dataset from GLI. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/block3.png[align=center]
 
 Type “Papilionoidea” in the Search box at the top of the window and hit Enter. The record for the butterfly superfamily Papilionoidea will be the only one shown. You can alternatively filter taxa using ranks or higher taxon or other options that can be selected by clicking on 'Advanced'. 
 
-
-image::img/web/CLB-search.png[align=center]
+image::img/web/block4.png[align=center]
 
 Select "Block" from the dropdown at the left above the taxon list (just below “Reset search”). 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/block5.png[align=center]
 
 Select "Papilionoidea" from the list and click on 'Apply selected decision'.
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/block6.png[align=center]
 
 If you click now on ‘Reset search’ (the red button on the left) and the ‘With decision’ radio button on the right, you will see that you have now specified a single decision, that Papilionoidea should be blocked. The same information can also be seen if you click on the Decisions subitem under the project menu.
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/block7.png[align=center]
 
- 
 When you populate the dataset, this decision will be honoured. 
 
 Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and the genus Phragmataecia. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/block8.png[align=center]
 
 ==== 3.2.3  Attach 
 
