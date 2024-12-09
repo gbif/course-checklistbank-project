@@ -14,3 +14,7 @@ Complete the form:
 image::img/web/create_dataset.png[align=center]
 
 image::img/web/add_root2.png[align=center,height=200]
+
+image::img/web/add_root2.png[align=center,width=200]
+
+
