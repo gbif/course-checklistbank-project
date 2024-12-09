@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-06 19:07+0000\n"
+"POT-Creation-Date: 2024-12-09 19:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -311,7 +311,9 @@ msgstr ""
 #: checklistassembly.en.adoc:124 checklistassembly.en.adoc:128
 #: checklistassembly.en.adoc:138 checklistassembly.en.adoc:142
 #: checklistassembly.en.adoc:147 checklistassembly.en.adoc:153
-#: checklistassembly.en.adoc:158
+#: checklistassembly.en.adoc:158 checklistassembly.en.adoc:163
+#: checklistassembly.en.adoc:173 checklistassembly.en.adoc:177
+#: checklistassembly.en.adoc:181
 #, no-wrap
 msgid "img/web/CLB-search.png"
 msgstr ""
@@ -797,6 +799,52 @@ msgid ""
 "A new sector (with a new colour) will appear on the left. The PHR (alias is "
 "PLZ31420). The sector has not yet been synchronised so it shows no child "
 "taxa."
+msgstr ""
+
+#. type: Title ====
+#: checklistassembly.en.adoc:165
+#, no-wrap
+msgid "3.2.5 Merge"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:168
+msgid ""
+"With this option to add sectors you can combine information from two or more "
+"sources. Here you will merge the species from GLI and those from the "
+"checklist derived from GAR, the paper “A review of the genus Gargela Walker "
+"in China…” (PLZ41041) that are not included in GLI."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:170
+msgid ""
+"Go again to the Assembly > Add sectors view, search on the left side for the "
+"genus Gargela and on the right search for Gargela and select the dataset "
+"PLZ41041 (GAR)."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:172
+msgid ""
+"Drag the genus Gargela from GAR onto the genus Gargela in the project "
+"view. Select Merge. It adds all taxa from the source dataset to the project "
+"if there is not already an entry for them."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:176
+msgid ""
+"Go to the Sectors view and select Sync for the two new sectors "
+"(Phragmataecia and Gargela)."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:180
+msgid ""
+"Following the synchronisation, the additional taxa will appear in the "
+"project view under Assembly, you can identify the merged taxa by a yellow "
+"square with the letter “m”."
 msgstr ""
 
 #. type: Title ==
