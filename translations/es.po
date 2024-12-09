@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-06 19:07+0000\n"
-"PO-Revision-Date: 2024-12-06 20:20\n"
+"POT-Creation-Date: 2024-12-09 19:45+0000\n"
+"PO-Revision-Date: 2024-12-09 20:15\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -235,22 +235,9 @@ msgid "Go to Datasets on the menu on the left side of the ChecklistBank window, 
 msgstr ""
 
 #. type: Target for macro image
-#: creatingaproject.en.adoc:5 checklistassembly.en.adoc:10
-#: checklistassembly.en.adoc:14 checklistassembly.en.adoc:21
-#: checklistassembly.en.adoc:27 checklistassembly.en.adoc:49
-#: checklistassembly.en.adoc:53 checklistassembly.en.adoc:57
-#: checklistassembly.en.adoc:61 checklistassembly.en.adoc:69
-#: checklistassembly.en.adoc:74 checklistassembly.en.adoc:80
-#: checklistassembly.en.adoc:84 checklistassembly.en.adoc:89
-#: checklistassembly.en.adoc:93 checklistassembly.en.adoc:97
-#: checklistassembly.en.adoc:101 checklistassembly.en.adoc:108
-#: checklistassembly.en.adoc:116 checklistassembly.en.adoc:120
-#: checklistassembly.en.adoc:124 checklistassembly.en.adoc:128
-#: checklistassembly.en.adoc:138 checklistassembly.en.adoc:142
-#: checklistassembly.en.adoc:147 checklistassembly.en.adoc:153
-#: checklistassembly.en.adoc:158
+#: creatingaproject.en.adoc:5
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/datasets_page.png"
 msgstr ""
 
 #. type: Plain text
@@ -276,6 +263,12 @@ msgstr ""
 #. type: Plain text
 #: creatingaproject.en.adoc:13
 msgid "Click 'Save'."
+msgstr ""
+
+#. type: Target for macro image
+#: creatingaproject.en.adoc:14
+#, no-wrap
+msgid "img/web/create_dataset.png"
 msgstr ""
 
 #. type: Title ==
@@ -357,9 +350,21 @@ msgstr ""
 msgid "To start the checklist assembly the highest taxonomic level has to be established. Under the Alias of the project on the left menu select the Assembly subitem, click on the Add root button near the middle of the window."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:10
+#, no-wrap
+msgid "img/web/assembly_fisrt_view.png"
+msgstr ""
+
 #. type: Plain text
 #: checklistassembly.en.adoc:13
 msgid "Enter the name “Lepidoptera” and click on Parse name."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:14
+#, no-wrap
+msgid "img/web/add_root.png"
 msgstr ""
 
 #. type: Plain text
@@ -377,9 +382,21 @@ msgstr ""
 msgid "Authorship: Linnaeus, 1758"
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:21
+#, no-wrap
+msgid "img/web/add_root2.png"
+msgstr ""
+
 #. type: Plain text
 #: checklistassembly.en.adoc:26
 msgid "Then click on 'Submit'.  The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:27
+#, no-wrap
+msgid "img/web/assembly_with_root.png"
 msgstr ""
 
 #. type: Title ===
@@ -450,9 +467,21 @@ msgstr ""
 msgid "On the search box on the right side of the window, enter “GLI” or “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a couple of seconds for the drop down list of datasets to appear."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:49
+#, no-wrap
+msgid "img/web/add_GLI.png"
+msgstr ""
+
 #. type: Plain text
 #: checklistassembly.en.adoc:52
 msgid "The right side of the window will refresh with the hierarchy for GLI."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:53
+#, no-wrap
+msgid "img/web/view_GLI.png"
 msgstr ""
 
 #. type: Plain text
@@ -460,152 +489,211 @@ msgstr ""
 msgid "Select Lepidoptera on the right and drag it across onto or immediately below Lepidoptera on the left. You will be asked to specify how the GLI Lepidoptera should be added as a project sector. Select 'Union'."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:57
+#, no-wrap
+msgid "img/web/union_GLI.png"
+msgstr ""
+
 #. type: Plain text
 #: checklistassembly.en.adoc:60
 msgid "The left side of the window will refresh to show that Lepidoptera is now sourced from GLI and will list just the first five children of GLI as an indication of content. The coloured labels will allow GLI to be distinguished easily from other sectors as they are added."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:61
+#, no-wrap
+msgid "img/web/assembly_GLI_view.png"
+msgstr ""
+
 #. type: Title ====
-#: checklistassembly.en.adoc:64
+#: checklistassembly.en.adoc:63
 #, no-wrap
 msgid "3.2.2 Block"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:68
+#: checklistassembly.en.adoc:67
 msgid "Now you are going to add a decision to exclude some parts from GLI: the superfamily Papilionoidea, the superfamily Alucitoidea and the genus Phragmataecia.  Click on the 'Source' item in the menu at the left of the ChecklistBank window. This will open a Select option with a second blue cog. Click on the cog."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:68 checklistassembly.en.adoc:73
+#: checklistassembly.en.adoc:79 checklistassembly.en.adoc:83
+#: checklistassembly.en.adoc:88 checklistassembly.en.adoc:92
+#: checklistassembly.en.adoc:96 checklistassembly.en.adoc:100
+#: checklistassembly.en.adoc:107 checklistassembly.en.adoc:115
+#: checklistassembly.en.adoc:119 checklistassembly.en.adoc:123
+#: checklistassembly.en.adoc:127 checklistassembly.en.adoc:137
+#: checklistassembly.en.adoc:141 checklistassembly.en.adoc:146
+#: checklistassembly.en.adoc:152 checklistassembly.en.adoc:157
+#: checklistassembly.en.adoc:162 checklistassembly.en.adoc:172
+#: checklistassembly.en.adoc:176 checklistassembly.en.adoc:180
+#, no-wrap
+msgid "img/web/CLB-search.png"
+msgstr ""
+
 #. type: Plain text
-#: checklistassembly.en.adoc:72
+#: checklistassembly.en.adoc:71
 msgid "You only have one sector in your project (GLI). Select this from the pop up search window."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:77
+#: checklistassembly.en.adoc:76
 msgid "A new view of GLI will appear next to a blue cog. This shows us the active source dataset for workbench operations. As more sectors are added, clicking again on the cog will allow you to switch source dataset."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:79
+#: checklistassembly.en.adoc:78
 msgid "The initial view shows the Issues known for the dataset. GLI is very large and still being actively curated, so there are many of these, but they can be ignored for this tutorial."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:83
+#: checklistassembly.en.adoc:82
 msgid "Select the 'Workbench´ subitem for the Source view of GLI. The workbench shows all of the taxa that will be included in your project dataset from GLI."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:87
+#: checklistassembly.en.adoc:86
 msgid "Type “Papilionoidea” in the Search box at the top of the window and hit Enter. The record for the butterfly superfamily Papilionoidea will be the only one shown. You can alternatively filter taxa using ranks or higher taxon or other options that can be selected by clicking on 'Advanced'."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:92
+#: checklistassembly.en.adoc:91
 msgid "Select \"Block\" from the dropdown at the left above the taxon list (just below “Reset search”)."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:96
+#: checklistassembly.en.adoc:95
 msgid "Select \"Papilionoidea\" from the list and click on 'Apply selected decision'."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:100
+#: checklistassembly.en.adoc:99
 msgid "If you click now on ‘Reset search’ (the red button on the left) and the ‘With decision’ radio button on the right, you will see that you have now specified a single decision, that Papilionoidea should be blocked. The same information can also be seen if you click on the Decisions subitem under the project menu."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:105
+#: checklistassembly.en.adoc:104
 msgid "When you populate the dataset, this decision will be honoured."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:107
+#: checklistassembly.en.adoc:106
 msgid "Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and the genus Phragmataecia."
 msgstr ""
 
 #. type: Title ====
-#: checklistassembly.en.adoc:110
+#: checklistassembly.en.adoc:109
 #, no-wrap
 msgid "3.2.3  Attach "
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:113
+#: checklistassembly.en.adoc:112
 msgid "Unlike GLI, the dataset Catalogue of the Alucitoidea of the World (ALU) includes higher classification all the way up to the kingdom, thus you are going to replace GLI Alucitoidea sector with ALU source."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:115
+#: checklistassembly.en.adoc:114
 msgid "In the project, select the Assembly subitem at the left and make sure the Add sectors view is selected (at the top of the window). Enter “Alucitoidea” in the search field on the right, wait a couple of seconds for the drop down list of datasets to appear, and select the first dataset (id:2207)."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:119
+#: checklistassembly.en.adoc:118
 msgid "Select the small arrows next to each name until the superfamily Alucitoidea appears. Alternatively, type “Alucitoidea” in the second search box on the right of the window and select it directly."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:123
+#: checklistassembly.en.adoc:122
 msgid "Drag Alucitoidea from ALU on the right onto Lepidoptera in your project on the left. Select Attach to include it as a child taxon."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:127
+#: checklistassembly.en.adoc:126
 msgid "The project display will now show that you have added two sectors. Note also the blue eye symbol and source link at the top right. This is a quick way to select the current dataset as the current source dataset in the Source submenu."
 msgstr ""
 
 #. type: Title ====
-#: checklistassembly.en.adoc:130
+#: checklistassembly.en.adoc:129
 #, no-wrap
 msgid "3.2.4 Synchronisation"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:133
+#: checklistassembly.en.adoc:132
 msgid "At this point the tool only shows an overview of the higher classification, to continue creating sectors at a more specific level it is best to synchronize all sectors so the entire assembly can be explored and managed."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:135
+#: checklistassembly.en.adoc:134
 msgid "Select the Sectors item in the menu at the left below the alias of your project. This view allows you to synchronise the content from each sector into your project."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:137
+#: checklistassembly.en.adoc:136
 msgid "Select the 'Sync all sectors' button and click 'Yes'."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:141
+#: checklistassembly.en.adoc:140
 msgid "Return to the Assembly subitem. You will see the view of the project contents beginning to be updated. This will take several minutes, grab a cup of coffee and wait for it to complete. You can Refresh the display to see progress."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:145
+#: checklistassembly.en.adoc:144
 msgid "Alternatively, you may click on the double arrowed circle on the top right and see the Sync state."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:150
+#: checklistassembly.en.adoc:149
 msgid "Now let's Attach a new sector."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:152
+#: checklistassembly.en.adoc:151
 msgid "In the Assembly > Add sectors view, search on the left side for the tribe Zeuzerini and on the right search for Phragmataecia and select dataset PLZ31420 (PHR)."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:156
+#: checklistassembly.en.adoc:155
 msgid "Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the project. Select Attach to insert the genus as a new sector."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:162
+#: checklistassembly.en.adoc:161
 msgid "A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa."
+msgstr ""
+
+#. type: Title ====
+#: checklistassembly.en.adoc:164
+#, no-wrap
+msgid "3.2.5 Merge"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:167
+msgid "With this option to add sectors you can combine information from two or more sources. Here you will merge the species from GLI and those from the checklist derived from GAR, the paper “A review of the genus Gargela Walker in China…” (PLZ41041) that are not included in GLI."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:169
+msgid "Go again to the Assembly > Add sectors view, search on the left side for the genus Gargela and on the right search for Gargela and select the dataset PLZ41041 (GAR)."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:171
+msgid "Drag the genus Gargela from GAR onto the genus Gargela in the project view. Select Merge. It adds all taxa from the source dataset to the project if there is not already an entry for them."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:175
+msgid "Go to the Sectors view and select Sync for the two new sectors (Phragmataecia and Gargela)."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:179
+msgid "Following the synchronisation, the additional taxa will appear in the project view under Assembly, you can identify the merged taxa by a yellow square with the letter “m”."
 msgstr ""
 
 #. type: Title ==
