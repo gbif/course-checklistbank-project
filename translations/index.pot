@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-09 20:50+0000\n"
+"POT-Creation-Date: 2024-12-09 20:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -346,8 +346,7 @@ msgid "img/web/create_dataset.png"
 msgstr ""
 
 #. type: Target for macro image
-#: creatingaproject.en.adoc:16 creatingaproject.en.adoc:18
-#: checklistassembly.en.adoc:21
+#: creatingaproject.en.adoc:18 checklistassembly.en.adoc:21
 #, no-wrap
 msgid "img/web/add_root2.png"
 msgstr ""
