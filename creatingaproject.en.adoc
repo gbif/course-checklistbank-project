@@ -12,3 +12,5 @@ Complete the form:
 * Click 'Save'. 
 
 image::img/web/create_dataset.png[align=center]
+
+image::img/web/add_root2.png[align=center,height=480]
