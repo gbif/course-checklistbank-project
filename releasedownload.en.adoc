@@ -1,0 +1,3 @@
+== Release
+
+To create a dataset that is a static snapshot of the assembly, you will need to make a ‘Release’. This will also generate stable identifiers for each taxon. The dataset generated will have the same characteristics and metadata as the project and will be available in the platform as public or private (depending on the definition of the project). 
