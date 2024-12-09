@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-09 22:49+0000\n"
+"POT-Creation-Date: 2024-12-09 23:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -800,15 +800,9 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:112 checklistassembly.en.adoc:116
-#: checklistassembly.en.adoc:120 checklistassembly.en.adoc:124
-#: checklistassembly.en.adoc:134 checklistassembly.en.adoc:138
-#: checklistassembly.en.adoc:143 checklistassembly.en.adoc:149
-#: checklistassembly.en.adoc:154 checklistassembly.en.adoc:159
-#: checklistassembly.en.adoc:169 checklistassembly.en.adoc:173
-#: checklistassembly.en.adoc:177
+#: checklistassembly.en.adoc:112
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/attach1.png"
 msgstr ""
 
 #. type: Plain text
@@ -819,11 +813,23 @@ msgid ""
 "right of the window and select it directly."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:116
+#, no-wrap
+msgid "img/web/attach2.png"
+msgstr ""
+
 #. type: Plain text
 #: checklistassembly.en.adoc:119
 msgid ""
 "Drag Alucitoidea from ALU on the right onto Lepidoptera in your project on "
 "the left. Select Attach to include it as a child taxon."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:120
+#, no-wrap
+msgid "img/web/attach3.png"
 msgstr ""
 
 #. type: Plain text
@@ -833,6 +839,12 @@ msgid ""
 "the blue eye symbol and source link at the top right. This is a quick way to "
 "select the current dataset as the current source dataset in the Source "
 "submenu."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:124
+#, no-wrap
+msgid "img/web/attach4.png"
 msgstr ""
 
 #. type: Title ====
@@ -860,6 +872,16 @@ msgstr ""
 #. type: Plain text
 #: checklistassembly.en.adoc:133
 msgid "Select the 'Sync all sectors' button and click 'Yes'."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:134 checklistassembly.en.adoc:138
+#: checklistassembly.en.adoc:143 checklistassembly.en.adoc:149
+#: checklistassembly.en.adoc:154 checklistassembly.en.adoc:159
+#: checklistassembly.en.adoc:169 checklistassembly.en.adoc:173
+#: checklistassembly.en.adoc:177
+#, no-wrap
+msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
