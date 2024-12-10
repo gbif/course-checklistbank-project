@@ -24,7 +24,7 @@ image::img/web/add_root2.png[align=center,width=600]
 Then click on 'Submit'. 
 The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added. 
 
-image::img/web/assembly_with_root.png[align=center,width=600]
+image::img/web/assembly_with_root.png[align=center,width=300]
 
 === 3.2 Add and manage sectors
 
@@ -144,19 +144,19 @@ Now let's Attach a new sector.
 
 In the Assembly > Add sectors view, search on the left side for the tribe Zeuzerini and on the right search for Phragmataecia and select dataset PLZ31420 (PHR). 
 
-image::img/web/CLB-search.png[align=center,width=600]
+image::img/web/attach5.png[align=center,width=600]
 
 Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the project. Select  Attach to insert the genus as a new sector. 
 
 
-image::img/web/CLB-search.png[align=center,width=600]
+image::img/web/attach6.png[align=center,width=600]
 
 
 A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa. 
 
-image::img/web/CLB-search.png[align=center,width=600]
+image::img/web/attach7.png[align=center,width=600]
 
-==== 3.2.4 Merge
+==== Merge
 
 With this option to add sectors you can combine information from two or more sources. Here you will merge the species from GLI and those from the checklist derived from GAR, the paper “A review of the genus Gargela Walker in China…” (PLZ41041) that are not included in GLI.
 
@@ -164,12 +164,14 @@ Go again to the Assembly > Add sectors view, search on the left side for the gen
 
 Drag the genus Gargela from GAR onto the genus Gargela in the project view. Select Merge. It adds all taxa from the source dataset to the project if there is not already an entry for them. 
  
-image::img/web/CLB-search.png[align=center,width=600]
+image::img/web/attach8.png[align=center,width=600]
+
+image::img/web/attach9.png[align=center,width=600]
 
 Go to the Sectors view and select Sync for the two new sectors (Phragmataecia and Gargela). 
 
-image::img/web/CLB-search.png[align=center,width=600]
+image::img/web/attach10.png[align=center,width=600]
 
 Following the synchronisation, the additional taxa will appear in the project view under Assembly, you can identify the merged taxa by a yellow square with the letter “m”.
 
-image::img/web/CLB-search.png[align=center,width=600]
+image::img/web/attach11.png[align=center,width=600]
