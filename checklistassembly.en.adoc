@@ -7,58 +7,58 @@ Building a new checklist consists of several steps and tools, which are describe
 
 To start the checklist assembly the highest taxonomic level  has to be established. Under the Alias of the project on the left menu select the  Assembly subitem, click on the Add root button near the middle of the window. 
 
-image::img/web/assembly_fisrt_view.png[align=center,width=600]
+image::img/web/assembly_fisrt_view.png[align=center,width=700]
 
 Enter the name “Lepidoptera” and click on Parse name. 
 
-image::img/web/add_root.png[align=center,width=600]
+image::img/web/add_root.png[align=center,width=700]
 
 A form will appear, change the Rank to order. This will change the display to include the fields shown in the image. Complete these as follows:
 
 - Name status: established
 - Authorship: Linnaeus, 1758
 
-image::img/web/add_root2.png[align=center,width=600]
+image::img/web/add_root2.png[align=center,width=300]
 
 
 Then click on 'Submit'. 
 The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added. 
 
-image::img/web/assembly_with_root.png[align=center,width=300]
+image::img/web/assembly_with_root.png[align=center,width=700]
 
 === 3.2 Add and manage sectors
 
 The building blocks for a ChecklistBank project are called  Sectors, these can be created by adding an entire dataset or a specific taxonomic group within a dataset. You can create as many sectors as needed, this gives maximum flexibility to assemble the project. There are several methods  to add sectors to the assembly:
 
-- *Union*: add all the descendants of the subject taxon, and ignores the name of the subject itself
+- *Union*: adds all the descendants of the subject taxon, and ignores the name of the subject itself
 - *Attach*: adds the subject taxon and all its descendants
-- *Merge*: enriches the existing assembly with additional information provided by the selected sector like, new names, synonyms, authorships, and references among others.
+- *Merge*: enriches the existing assembly with additional information provided by the selected sector like: new names, synonyms, authorships, and references, among others.
 
 There are also several editorial decisions that can be made over any taxon on the project:
 
-- *Block*: Ignores the selected name and its children.
-- *Ignore*: Only the selected name is ignored.
-- *Review*: Marks  that the selected name has already been reviewed and does not require changes.
+- *Block*: ignores the selected name and its children.
+- *Ignore*: only the selected name is ignored.
+- *Review*: indicates that the selected name has already been reviewed and requires no changes
 
 ==== 3.2.1 Union 
 
-You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the  Add sectors option is selected at the top of the window. 
+You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the Add sectors option is selected at the top of the window. 
 
-On the search box on the right side of the window, enter “GLI” or  “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a couple of seconds for the drop down list of datasets to appear.
+On the search box on the right side of the window, enter “GLI” or  “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a few seconds for the dropdown list of datasets to load.
 
-image::img/web/add_GLI.png[align=center,width=600]
+image::img/web/add_GLI.png[align=center,width=700]
 
 The right side of the window will refresh with the hierarchy for GLI. 
 
-image::img/web/view_GLI.png[align=center,width=600]
+image::img/web/view_GLI.png[align=center,width=700]
 
 Select Lepidoptera on the right and drag it across onto or immediately below Lepidoptera on the left. You will be asked to specify how the GLI Lepidoptera should be added as a project sector. Select 'Union'. 
 
-image::img/web/union_GLI.png[align=center,width=600]
+image::img/web/union_GLI.png[align=center,width=700]
 
 The left side of the window will refresh to show that Lepidoptera is now sourced from GLI and will list just the first five children of GLI as an indication of content. The coloured labels will allow GLI to be distinguished easily from other sectors as they are added. 
 
-image::img/web/assembly_GLI_view.png[align=center,width=600]
+image::img/web/result_GLI.png[align=center,width=700]
 
 ==== 3.2.2 Block
 
