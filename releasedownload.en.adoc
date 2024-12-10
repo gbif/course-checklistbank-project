@@ -16,4 +16,14 @@ Return to the main Datasets subitem on the left and search for your dataset. Onc
 
 image::img/web/CLB-search.png[align=center]
 
-Select the Download subitem. This allows the dataset to be downloaded in a variety of formats. The coldp (Catalogue of Life Data Package) format is a rich data model that includes the most complete view of the contents of each dataset (see the COLDP specification). The text tree format is a simple text view of the names, classification and synonyms. You will download this for your project dataset. 
+Select the Download subitem. This allows the dataset to be downloaded in a variety of formats:
+
+- The coldp (Catalogue of Life Data Package) format is a rich data model that includes the most complete view of the contents of each dataset (see the https://www.google.com/url?q=https://github.com/CatalogueOfLife/coldp&sa=D&source=docs&ust=1733781423575681&usg=AOvVaw35RSjdeZVnv0hPcQZgeXVu[CoLDP specification]).
+
+- The text tree format is a simple text view of the names, classification and synonyms. You will download this for your project dataset. 
+
+For this excercise apply any desired filters then select "text tree" and click on 'Download'. The resulting ZIP file contains the metadata (as a YAML file) and the tree representation of the dataset (as a TXT file). 
+
+image::img/web/CLB-search.png[align=center]
+
+The view shown includes the merged genus Gargela.  
