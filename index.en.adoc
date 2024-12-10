@@ -5,7 +5,7 @@ GBIF Secretariat <training@gbif.org>
 :multipage-level: 1
 :toc: left
 :toclevels: 3
-:numbered:
+:numbered: 3
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :title-page-background-image: image::img/logos/clb-col-dark.svg[position=top center]
@@ -30,6 +30,8 @@ include::description.en.adoc[]
 include::login.en.adoc[]
 
 include::usecase.en.adoc[]
+
+:sectnums:
 
 include::creatingaproject.en.adoc[]
 
