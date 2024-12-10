@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-10 02:42+0000\n"
-"PO-Revision-Date: 2024-12-10 03:20\n"
+"POT-Creation-Date: 2024-12-10 21:08+0000\n"
+"PO-Revision-Date: 2024-12-10 21:10\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -224,49 +224,49 @@ msgid "The tutorial will finally show how the resulting dataset can be exported.
 msgstr ""
 
 #. type: Title ==
-#: creatingaproject.en.adoc:1
+#: creatingaproject.en.adoc:3
 #, no-wrap
-msgid "1. Creating a new project"
+msgid "Creating a new project"
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:4
+#: creatingaproject.en.adoc:6
 msgid "Go to Datasets on the menu on the left side of the ChecklistBank window, and then click on ‘+New Dataset’."
 msgstr ""
 
 #. type: Target for macro image
-#: creatingaproject.en.adoc:5
+#: creatingaproject.en.adoc:7
 #, no-wrap
 msgid "img/web/datasets_page.png"
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:8
+#: creatingaproject.en.adoc:10
 msgid "Complete the form:"
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:10
+#: creatingaproject.en.adoc:12
 msgid "Set a meaningful and clear title. For this tutorial use: your name followed by \"Moths of the World\"."
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:11
+#: creatingaproject.en.adoc:13
 msgid "Select \"project\" for the Dataset Origin and \"taxonomic\" for the Dataset Type."
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:12
+#: creatingaproject.en.adoc:14
 msgid "Set a Creative Commons licence for the project: “cc by” is appropriate since none of the four source datasets of this tutorial have more restrictive licences. It is important to consider that the licences of the source datasets must be compatible, that is, if the base source has a less restrictive licence, it will not be possible to integrate information from a more restrictive source. The licence of the project can be changed at any time."
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:13
+#: creatingaproject.en.adoc:15
 msgid "Click 'Save'."
 msgstr ""
 
 #. type: Target for macro image
-#: creatingaproject.en.adoc:14
+#: creatingaproject.en.adoc:16
 #, no-wrap
 msgid "img/web/create_dataset.png"
 msgstr ""
