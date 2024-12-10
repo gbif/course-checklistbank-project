@@ -123,24 +123,22 @@ The project display will now show that you have added two sectors. Note also the
 
 image::img/web/attach4.png[align=center]
 
-==== 3.2.4 Synchronisation
-
 At this point the tool only shows an overview of the higher classification, to continue creating sectors at a more specific level it is best to synchronize all sectors so the entire assembly can be explored and managed.
 
 Select the Sectors item in the menu at the left below the alias of your project. This view allows you to synchronise the content from each sector into your project. 
 
 Select the 'Sync all sectors' button and click 'Yes'. 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/sync1.png[align=center]
 
 Return to the Assembly subitem. You will see the view of the project contents beginning to be updated. This will take several minutes, grab a cup of coffee and wait for it to complete. You can Refresh the display to see progress.  
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/sync2.png[align=center]
 
 Alternatively, you may click on the double arrowed circle on the top right and see the Sync state. 
 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/sync3.png[align=center]
 
 Now let's Attach a new sector.
 
@@ -158,7 +156,7 @@ A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ3
 
 image::img/web/CLB-search.png[align=center]
 
-==== 3.2.5 Merge
+==== 3.2.4 Merge
 
 With this option to add sectors you can combine information from two or more sources. Here you will merge the species from GLI and those from the checklist derived from GAR, the paper “A review of the genus Gargela Walker in China…” (PLZ41041) that are not included in GLI.
 
