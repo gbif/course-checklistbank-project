@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-10 21:08+0000\n"
-"PO-Revision-Date: 2024-12-10 21:10\n"
+"POT-Creation-Date: 2024-12-10 21:36+0000\n"
+"PO-Revision-Date: 2024-12-10 22:31\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -224,49 +224,49 @@ msgid "The tutorial will finally show how the resulting dataset can be exported.
 msgstr ""
 
 #. type: Title ==
-#: creatingaproject.en.adoc:3
+#: creatingaproject.en.adoc:2
 #, no-wrap
 msgid "Creating a new project"
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:6
+#: creatingaproject.en.adoc:5
 msgid "Go to Datasets on the menu on the left side of the ChecklistBank window, and then click on ‘+New Dataset’."
 msgstr ""
 
 #. type: Target for macro image
-#: creatingaproject.en.adoc:7
+#: creatingaproject.en.adoc:6
 #, no-wrap
 msgid "img/web/datasets_page.png"
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:10
+#: creatingaproject.en.adoc:9
 msgid "Complete the form:"
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:12
+#: creatingaproject.en.adoc:11
 msgid "Set a meaningful and clear title. For this tutorial use: your name followed by \"Moths of the World\"."
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:13
+#: creatingaproject.en.adoc:12
 msgid "Select \"project\" for the Dataset Origin and \"taxonomic\" for the Dataset Type."
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:14
+#: creatingaproject.en.adoc:13
 msgid "Set a Creative Commons licence for the project: “cc by” is appropriate since none of the four source datasets of this tutorial have more restrictive licences. It is important to consider that the licences of the source datasets must be compatible, that is, if the base source has a less restrictive licence, it will not be possible to integrate information from a more restrictive source. The licence of the project can be changed at any time."
 msgstr ""
 
 #. type: Plain text
-#: creatingaproject.en.adoc:15
+#: creatingaproject.en.adoc:14
 msgid "Click 'Save'."
 msgstr ""
 
 #. type: Target for macro image
-#: creatingaproject.en.adoc:16
+#: creatingaproject.en.adoc:15
 #, no-wrap
 msgid "img/web/create_dataset.png"
 msgstr ""
@@ -730,13 +730,9 @@ msgid "In the Assembly > Add sectors view, search on the left side for the tribe
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:147 checklistassembly.en.adoc:152
-#: checklistassembly.en.adoc:157 checklistassembly.en.adoc:167
-#: checklistassembly.en.adoc:171 checklistassembly.en.adoc:175
-#: releasedownload.en.adoc:7 releasedownload.en.adoc:11
-#: releasedownload.en.adoc:17 releasedownload.en.adoc:27
+#: checklistassembly.en.adoc:147
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/attach5.png"
 msgstr ""
 
 #. type: Plain text
@@ -744,15 +740,27 @@ msgstr ""
 msgid "Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the project. Select Attach to insert the genus as a new sector."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:152
+#, no-wrap
+msgid "img/web/attach6.png"
+msgstr ""
+
 #. type: Plain text
 #: checklistassembly.en.adoc:156
 msgid "A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:157
+#, no-wrap
+msgid "img/web/attach7.png"
+msgstr ""
+
 #. type: Title ====
 #: checklistassembly.en.adoc:159
 #, no-wrap
-msgid "3.2.4 Merge"
+msgid "Merge"
 msgstr ""
 
 #. type: Plain text
@@ -770,14 +778,38 @@ msgstr ""
 msgid "Drag the genus Gargela from GAR onto the genus Gargela in the project view. Select Merge. It adds all taxa from the source dataset to the project if there is not already an entry for them."
 msgstr ""
 
-#. type: Plain text
-#: checklistassembly.en.adoc:170
-msgid "Go to the Sectors view and select Sync for the two new sectors (Phragmataecia and Gargela)."
+#. type: Target for macro image
+#: checklistassembly.en.adoc:167
+#, no-wrap
+msgid "img/web/attach8.png"
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:169
+#, no-wrap
+msgid "img/web/attach9.png"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:174
+#: checklistassembly.en.adoc:172
+msgid "Go to the Sectors view and select Sync for the two new sectors (Phragmataecia and Gargela)."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:173
+#, no-wrap
+msgid "img/web/attach10.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:176
 msgid "Following the synchronisation, the additional taxa will appear in the project view under Assembly, you can identify the merged taxa by a yellow square with the letter “m”."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:177
+#, no-wrap
+msgid "img/web/attach11.png"
 msgstr ""
 
 #. type: Title ==
@@ -794,6 +826,13 @@ msgstr ""
 #. type: Plain text
 #: releasedownload.en.adoc:6
 msgid "Go to the Options item on the left menu, and the Click on Release, the second action at the right. According to the project size it can take several minutes up to hours for the Release to be read."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:7 releasedownload.en.adoc:11
+#: releasedownload.en.adoc:17 releasedownload.en.adoc:27
+#, no-wrap
+msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
