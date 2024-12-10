@@ -1,12 +1,12 @@
 == Colophon
 
 === Suggested citation
-Hobern D., Hernández D., Plata C., Bánki O., Döring M., Stjernegaard T., & Miller J (2024). ChecklistBank Project Tutorial.  A tool to build and curate checklists.  version 1. https://doi.org/10.10.#####/####.
+Hobern D., Plata C., Hernández D., Bánki O., Döring M., Stjernegaard T., & Miller J (2024). ChecklistBank Project Tutorial.  A tool to build and curate checklists.  version 1. https://doi.org/10.10.#####/####.
 
 [Date of course.]
 
 === Authors
-Donald Hobern, Diana Hernández, Camila Plata, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen and Joe Miller.
+Donald Hobern, Camila Plata, Diana Hernández, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen and Joe Miller.
 
 === Contributors
 
