@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-10 02:31+0000\n"
+"POT-Creation-Date: 2024-12-10 02:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -287,7 +287,7 @@ msgstr ""
 #. type: Title ==
 #: creatingaproject.en.adoc:1
 #, no-wrap
-msgid "Creating a new project"
+msgid "1. Creating a new project"
 msgstr ""
 
 #. type: Plain text
