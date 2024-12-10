@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-10 21:36+0000\n"
-"PO-Revision-Date: 2024-12-10 22:31\n"
+"POT-Creation-Date: 2024-12-10 22:34+0000\n"
+"PO-Revision-Date: 2024-12-10 23:52\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -413,7 +413,7 @@ msgstr ""
 #. type: Plain text
 #: checklistassembly.en.adoc:34
 #, no-wrap
-msgid "*Union*: add all the descendants of the subject taxon, and ignores the name of the subject itself\n"
+msgid "*Union*: adds all the descendants of the subject taxon, and ignores the name of the subject itself\n"
 msgstr ""
 
 #. type: Plain text
@@ -425,7 +425,7 @@ msgstr ""
 #. type: Plain text
 #: checklistassembly.en.adoc:36
 #, no-wrap
-msgid "*Merge*: enriches the existing assembly with additional information provided by the selected sector like, new names, synonyms, authorships, and references among others.\n"
+msgid "*Merge*: enriches the existing assembly with additional information provided by the selected sector like: new names, synonyms, authorships, and references, among others.\n"
 msgstr ""
 
 #. type: Plain text
@@ -436,19 +436,19 @@ msgstr ""
 #. type: Plain text
 #: checklistassembly.en.adoc:40
 #, no-wrap
-msgid "*Block*: Ignores the selected name and its children.\n"
+msgid "*Block*: ignores the selected name and its children.\n"
 msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:41
 #, no-wrap
-msgid "*Ignore*: Only the selected name is ignored.\n"
+msgid "*Ignore*: only the selected name is ignored.\n"
 msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:42
 #, no-wrap
-msgid "*Review*: Marks  that the selected name has already been reviewed and does not require changes.\n"
+msgid "*Review*: indicates that the selected name has already been reviewed and requires no changes\n"
 msgstr ""
 
 #. type: Title ====
@@ -464,7 +464,7 @@ msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:48
-msgid "On the search box on the right side of the window, enter “GLI” or “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a couple of seconds for the drop down list of datasets to appear."
+msgid "On the search box on the right side of the window, enter “GLI” or “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a few seconds for the dropdown list of datasets to load."
 msgstr ""
 
 #. type: Target for macro image
@@ -503,7 +503,7 @@ msgstr ""
 #. type: Target for macro image
 #: checklistassembly.en.adoc:61
 #, no-wrap
-msgid "img/web/assembly_GLI_view.png"
+msgid "img/web/result_GLI.png"
 msgstr ""
 
 #. type: Title ====
