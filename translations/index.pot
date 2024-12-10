@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-10 00:56+0000\n"
+"POT-Creation-Date: 2024-12-10 02:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -919,6 +919,8 @@ msgstr ""
 #: checklistassembly.en.adoc:147 checklistassembly.en.adoc:152
 #: checklistassembly.en.adoc:157 checklistassembly.en.adoc:167
 #: checklistassembly.en.adoc:171 checklistassembly.en.adoc:175
+#: releasedownload.en.adoc:7 releasedownload.en.adoc:11
+#: releasedownload.en.adoc:17 releasedownload.en.adoc:27
 #, no-wrap
 msgid "img/web/CLB-search.png"
 msgstr ""
@@ -982,6 +984,87 @@ msgid ""
 "Following the synchronisation, the additional taxa will appear in the "
 "project view under Assembly, you can identify the merged taxa by a yellow "
 "square with the letter “m”."
+msgstr ""
+
+#. type: Title ==
+#: releasedownload.en.adoc:1
+#, no-wrap
+msgid "4. Release"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:4
+msgid ""
+"To create a dataset that is a static snapshot of the assembly, you will need "
+"to make a ‘Release’. This will also generate stable identifiers for each "
+"taxon. The dataset generated will have the same characteristics and metadata "
+"as the project and will be available in the platform as public or private "
+"(depending on the definition of the project)."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:6
+msgid ""
+"Go to the Options item on the left menu, and the Click on Release, the "
+"second action at the right. According to the project size it can take "
+"several minutes up to hours for the Release to be read."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:10
+msgid "Releases are listed in the Releases view."
+msgstr ""
+
+#. type: Title ==
+#: releasedownload.en.adoc:13
+#, no-wrap
+msgid "5. Downloading and accessing the dataset "
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:16
+msgid ""
+"Return to the main Datasets subitem on the left and search for your "
+"dataset. Once releases have been completed, you will find both the project "
+"dataset and its releases in the search results. Either can be selected for "
+"the following steps, although (as noted above) only the released versions "
+"will have stable identifiers if you plan to reference taxa by URI."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:20
+msgid ""
+"Select the Download subitem. This allows the dataset to be downloaded in a "
+"variety of formats:"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:22
+msgid ""
+"The coldp (Catalogue of Life Data Package) format is a rich data model that "
+"includes the most complete view of the contents of each dataset (see the "
+"https://www.google.com/url?q=https://github.com/CatalogueOfLife/coldp&sa=D&source=docs&ust=1733781423575681&usg=AOvVaw35RSjdeZVnv0hPcQZgeXVu[CoLDP "
+"specification])."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:24
+msgid ""
+"The text tree format is a simple text view of the names, classification and "
+"synonyms. You will download this for your project dataset."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:26
+msgid ""
+"For this excercise apply any desired filters then select \"text tree\" and "
+"click on 'Download'. The resulting ZIP file contains the metadata (as a YAML "
+"file) and the tree representation of the dataset (as a TXT file)."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:29
+msgid "The view shown includes the merged genus Gargela."
 msgstr ""
 
 #. type: Title ==
