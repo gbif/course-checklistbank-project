@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-10 00:40+0000\n"
-"PO-Revision-Date: 2024-12-10 00:41\n"
+"POT-Creation-Date: 2024-12-10 00:56+0000\n"
+"PO-Revision-Date: 2024-12-10 02:00\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -226,7 +226,7 @@ msgstr ""
 #. type: Title ==
 #: creatingaproject.en.adoc:1
 #, no-wrap
-msgid "1. Creating a new project"
+msgid "Creating a new project"
 msgstr ""
 
 #. type: Plain text
