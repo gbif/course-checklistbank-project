@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-10 21:12+0000\n"
+"POT-Creation-Date: 2024-12-10 21:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -916,13 +916,9 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:147 checklistassembly.en.adoc:152
-#: checklistassembly.en.adoc:157 checklistassembly.en.adoc:167
-#: checklistassembly.en.adoc:171 checklistassembly.en.adoc:175
-#: releasedownload.en.adoc:7 releasedownload.en.adoc:11
-#: releasedownload.en.adoc:17 releasedownload.en.adoc:27
+#: checklistassembly.en.adoc:147
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/attach5.png"
 msgstr ""
 
 #. type: Plain text
@@ -930,6 +926,12 @@ msgstr ""
 msgid ""
 "Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the "
 "project. Select Attach to insert the genus as a new sector."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:152
+#, no-wrap
+msgid "img/web/attach6.png"
 msgstr ""
 
 #. type: Plain text
@@ -940,10 +942,16 @@ msgid ""
 "taxa."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:157
+#, no-wrap
+msgid "img/web/attach7.png"
+msgstr ""
+
 #. type: Title ====
 #: checklistassembly.en.adoc:159
 #, no-wrap
-msgid "3.2.4 Merge"
+msgid "Merge"
 msgstr ""
 
 #. type: Plain text
@@ -971,19 +979,43 @@ msgid ""
 "if there is not already an entry for them."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:167
+#, no-wrap
+msgid "img/web/attach8.png"
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:169
+#, no-wrap
+msgid "img/web/attach9.png"
+msgstr ""
+
 #. type: Plain text
-#: checklistassembly.en.adoc:170
+#: checklistassembly.en.adoc:172
 msgid ""
 "Go to the Sectors view and select Sync for the two new sectors "
 "(Phragmataecia and Gargela)."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:173
+#, no-wrap
+msgid "img/web/attach10.png"
+msgstr ""
+
 #. type: Plain text
-#: checklistassembly.en.adoc:174
+#: checklistassembly.en.adoc:176
 msgid ""
 "Following the synchronisation, the additional taxa will appear in the "
 "project view under Assembly, you can identify the merged taxa by a yellow "
 "square with the letter “m”."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:177
+#, no-wrap
+msgid "img/web/attach11.png"
 msgstr ""
 
 #. type: Title ==
@@ -1008,6 +1040,13 @@ msgid ""
 "Go to the Options item on the left menu, and the Click on Release, the "
 "second action at the right. According to the project size it can take "
 "several minutes up to hours for the Release to be read."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:7 releasedownload.en.adoc:11
+#: releasedownload.en.adoc:17 releasedownload.en.adoc:27
+#, no-wrap
+msgid "img/web/CLB-search.png"
 msgstr ""
 
 #. type: Plain text
