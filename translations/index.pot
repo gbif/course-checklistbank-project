@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-10 00:19+0000\n"
+"POT-Creation-Date: 2024-12-10 00:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -847,14 +847,8 @@ msgstr ""
 msgid "img/web/attach4.png"
 msgstr ""
 
-#. type: Title ====
-#: checklistassembly.en.adoc:126
-#, no-wrap
-msgid "3.2.4 Synchronisation"
-msgstr ""
-
 #. type: Plain text
-#: checklistassembly.en.adoc:129
+#: checklistassembly.en.adoc:127
 msgid ""
 "At this point the tool only shows an overview of the higher classification, "
 "to continue creating sectors at a more specific level it is best to "
@@ -862,7 +856,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:131
+#: checklistassembly.en.adoc:129
 msgid ""
 "Select the Sectors item in the menu at the left below the alias of your "
 "project. This view allows you to synchronise the content from each sector "
@@ -870,22 +864,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:133
+#: checklistassembly.en.adoc:131
 msgid "Select the 'Sync all sectors' button and click 'Yes'."
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:134 checklistassembly.en.adoc:138
-#: checklistassembly.en.adoc:143 checklistassembly.en.adoc:149
-#: checklistassembly.en.adoc:154 checklistassembly.en.adoc:159
-#: checklistassembly.en.adoc:169 checklistassembly.en.adoc:173
-#: checklistassembly.en.adoc:177
+#: checklistassembly.en.adoc:132
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/sync1.png"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:137
+#: checklistassembly.en.adoc:135
 msgid ""
 "Return to the Assembly subitem. You will see the view of the project "
 "contents beginning to be updated. This will take several minutes, grab a cup "
@@ -893,35 +883,55 @@ msgid ""
 "progress."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:136
+#, no-wrap
+msgid "img/web/sync2.png"
+msgstr ""
+
 #. type: Plain text
-#: checklistassembly.en.adoc:141
+#: checklistassembly.en.adoc:139
 msgid ""
 "Alternatively, you may click on the double arrowed circle on the top right "
 "and see the Sync state."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:141
+#, no-wrap
+msgid "img/web/sync3.png"
+msgstr ""
+
 #. type: Plain text
-#: checklistassembly.en.adoc:146
+#: checklistassembly.en.adoc:144
 msgid "Now let's Attach a new sector."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:148
+#: checklistassembly.en.adoc:146
 msgid ""
 "In the Assembly > Add sectors view, search on the left side for the tribe "
 "Zeuzerini and on the right search for Phragmataecia and select dataset "
 "PLZ31420 (PHR)."
 msgstr ""
 
+#. type: Target for macro image
+#: checklistassembly.en.adoc:147 checklistassembly.en.adoc:152
+#: checklistassembly.en.adoc:157 checklistassembly.en.adoc:167
+#: checklistassembly.en.adoc:171 checklistassembly.en.adoc:175
+#, no-wrap
+msgid "img/web/CLB-search.png"
+msgstr ""
+
 #. type: Plain text
-#: checklistassembly.en.adoc:152
+#: checklistassembly.en.adoc:150
 msgid ""
 "Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the "
 "project. Select Attach to insert the genus as a new sector."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:158
+#: checklistassembly.en.adoc:156
 msgid ""
 "A new sector (with a new colour) will appear on the left. The PHR (alias is "
 "PLZ31420). The sector has not yet been synchronised so it shows no child "
@@ -929,13 +939,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: checklistassembly.en.adoc:161
+#: checklistassembly.en.adoc:159
 #, no-wrap
-msgid "3.2.5 Merge"
+msgid "3.2.4 Merge"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:164
+#: checklistassembly.en.adoc:162
 msgid ""
 "With this option to add sectors you can combine information from two or more "
 "sources. Here you will merge the species from GLI and those from the "
@@ -944,7 +954,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:166
+#: checklistassembly.en.adoc:164
 msgid ""
 "Go again to the Assembly > Add sectors view, search on the left side for the "
 "genus Gargela and on the right search for Gargela and select the dataset "
@@ -952,7 +962,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:168
+#: checklistassembly.en.adoc:166
 msgid ""
 "Drag the genus Gargela from GAR onto the genus Gargela in the project "
 "view. Select Merge. It adds all taxa from the source dataset to the project "
@@ -960,14 +970,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:172
+#: checklistassembly.en.adoc:170
 msgid ""
 "Go to the Sectors view and select Sync for the two new sectors "
 "(Phragmataecia and Gargela)."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:176
+#: checklistassembly.en.adoc:174
 msgid ""
 "Following the synchronisation, the additional taxa will appear in the "
 "project view under Assembly, you can identify the merged taxa by a yellow "
