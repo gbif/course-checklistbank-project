@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-09 23:20+0000\n"
+"POT-Creation-Date: 2024-12-10 00:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -989,7 +989,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:5
 msgid ""
-"Hobern D., Hernández D., Plata C., Bánki O., Döring M., Stjernegaard T., & "
+"Hobern D., Plata C., Hernández D., Bánki O., Döring M., Stjernegaard T., & "
 "Miller J (2024). ChecklistBank Project Tutorial.  A tool to build and curate "
 "checklists.  version 1. https://doi.org/10.10.#####/####."
 msgstr ""
@@ -1003,7 +1003,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid ""
-"Donald Hobern, Diana Hernández, Camila Plata, Olaf Bánki, Markus Döring, "
+"Donald Hobern, Camila Plata, Diana Hernández, Olaf Bánki, Markus Döring, "
 "Thomas Stjernegaard Jeppesen and Joe Miller."
 msgstr ""
 
