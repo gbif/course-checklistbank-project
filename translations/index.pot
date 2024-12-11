@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-11 20:48+0000\n"
+"POT-Creation-Date: 2024-12-11 21:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,8 +66,8 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:11
 msgid ""
-"In addition to the general tools, users can use ChecklistBank to create and "
-"publish new datasets through two different ways:"
+"In addition to the general tools, users can create and publish new datasets "
+"through ChecklistBank in two different ways:"
 msgstr ""
 
 #. type: delimited block *
@@ -85,19 +85,19 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:16
 msgid ""
-"Both external and project datasets benefit from many common features that "
-"ChecklistBank delivers as an open data infrastructure: standards compliance, "
-"validation and reporting, multiple download options, rich API support, etc."
+"Both of them benefit from many common features that ChecklistBank delivers "
+"as an open data infrastructure: standards compliance, validation and "
+"reporting, multiple download options, rich API support, etc."
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:18
 msgid ""
-"ChecklistBank users can use the Project functionality to create new "
-"Checklists from existing datasets hosted in ChecklistBank (also referred "
-"here as sources), combining them totally or partially. For example to create "
-"a national checklist, based on taxonomic checklists and articles from a "
-"specific country."
+"ChecklistBank users can use the *Project functionality* to create new "
+"Checklists from existing datasets hosted in the platform (also referred here "
+"as sources), combining their data totally or partially. For example to "
+"create a national checklist, based on taxonomic checklists and articles from "
+"a specific country."
 msgstr ""
 
 #. type: delimited block *
@@ -110,7 +110,8 @@ msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:22
-msgid "Project functionality includes the following features:"
+#, no-wrap
+msgid "*Project functionality* includes the following features: \n"
 msgstr ""
 
 #. type: delimited block *
