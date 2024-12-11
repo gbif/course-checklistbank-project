@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-11 21:10+0000\n"
-"PO-Revision-Date: 2024-12-11 21:53\n"
+"POT-Creation-Date: 2024-12-11 22:51+0000\n"
+"PO-Revision-Date: 2024-12-11 23:01\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -123,7 +123,7 @@ msgstr ""
 
 #. type: Plain text
 #: description.en.adoc:34
-msgid "This tutorial is for Biodiversity information systems, taxonomists, governmental entities, online platforms, and any other people or institutions interested in assembling a checklist from pre existing lists in ChecklistBank."
+msgid "This tutorial is for Biodiversity information systems, taxonomists, governmental entities, online platforms, and any other people or institutions interested in assembling a checklist from preexisting lists in ChecklistBank."
 msgstr ""
 
 #. type: Title ==
@@ -818,15 +818,20 @@ msgid "Go to the Options item on the left menu, and the Click on Release, the se
 msgstr ""
 
 #. type: Target for macro image
-#: releasedownload.en.adoc:7 releasedownload.en.adoc:11
-#: releasedownload.en.adoc:17 releasedownload.en.adoc:27
+#: releasedownload.en.adoc:7
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/release1.png"
 msgstr ""
 
 #. type: Plain text
 #: releasedownload.en.adoc:10
 msgid "Releases are listed in the Releases view."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:11
+#, no-wrap
+msgid "img/web/release2.png"
 msgstr ""
 
 #. type: Title ==
@@ -840,28 +845,46 @@ msgstr ""
 msgid "Return to the main Datasets subitem on the left and search for your dataset. Once releases have been completed, you will find both the project dataset and its releases in the search results. Either can be selected for the following steps, although (as noted above) only the released versions will have stable identifiers if you plan to reference taxa by URI."
 msgstr ""
 
+#. type: Target for macro image
+#: releasedownload.en.adoc:17
+#, no-wrap
+msgid "img/web/download1.png"
+msgstr ""
+
 #. type: Plain text
 #: releasedownload.en.adoc:20
 msgid "Select the Download subitem. This allows the dataset to be downloaded in a variety of formats:"
 msgstr ""
 
-#. type: Plain text
-#: releasedownload.en.adoc:22
-msgid "The coldp (Catalogue of Life Data Package) format is a rich data model that includes the most complete view of the contents of each dataset (see the https://www.google.com/url?q=https://github.com/CatalogueOfLife/coldp&sa=D&source=docs&ust=1733781423575681&usg=AOvVaw35RSjdeZVnv0hPcQZgeXVu[CoLDP specification])."
+#. type: Target for macro image
+#: releasedownload.en.adoc:21
+#, no-wrap
+msgid "img/web/download2.png"
 msgstr ""
 
 #. type: Plain text
 #: releasedownload.en.adoc:24
-msgid "The text tree format is a simple text view of the names, classification and synonyms. You will download this for your project dataset."
+msgid "The coldp (Catalogue of Life Data Package) format is a rich data model that includes the most complete view of the contents of each dataset (see the https://www.google.com/url?q=https://github.com/CatalogueOfLife/coldp&sa=D&source=docs&ust=1733781423575681&usg=AOvVaw35RSjdeZVnv0hPcQZgeXVu[CoLDP specification])."
 msgstr ""
 
 #. type: Plain text
 #: releasedownload.en.adoc:26
-msgid "For this excercise apply any desired filters then select \"text tree\" and click on 'Download'. The resulting ZIP file contains the metadata (as a YAML file) and the tree representation of the dataset (as a TXT file)."
+msgid "The text tree format is a simple text view of the names, classification and synonyms. You will download this for your project dataset."
 msgstr ""
 
 #. type: Plain text
+#: releasedownload.en.adoc:28
+msgid "For this excercise apply any desired filters then select \"text tree\" and click on 'Download'. The resulting ZIP file contains the metadata (as a YAML file) and the tree representation of the dataset (as a TXT file)."
+msgstr ""
+
+#. type: Target for macro image
 #: releasedownload.en.adoc:29
+#, no-wrap
+msgid "img/web/download3.png"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:31
 msgid "The view shown includes the merged genus Gargela."
 msgstr ""
 
