@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-10 22:34+0000\n"
-"PO-Revision-Date: 2024-12-10 23:52\n"
+"POT-Creation-Date: 2024-12-11 00:14+0000\n"
+"PO-Revision-Date: 2024-12-11 01:01\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -274,7 +274,7 @@ msgstr ""
 #. type: Title ==
 #: metadata.en.adoc:3
 #, no-wrap
-msgid "2. Metadata"
+msgid "Metadata"
 msgstr ""
 
 #. type: Plain text
@@ -342,7 +342,7 @@ msgstr ""
 #. type: Title ===
 #: checklistassembly.en.adoc:6
 #, no-wrap
-msgid "3.1 Add a root taxon"
+msgid "Add a root taxon"
 msgstr ""
 
 #. type: Plain text
@@ -402,7 +402,7 @@ msgstr ""
 #. type: Title ===
 #: checklistassembly.en.adoc:29
 #, no-wrap
-msgid "3.2 Add and manage sectors"
+msgid "Add and manage sectors"
 msgstr ""
 
 #. type: Plain text
@@ -454,7 +454,7 @@ msgstr ""
 #. type: Title ====
 #: checklistassembly.en.adoc:43
 #, no-wrap
-msgid "3.2.1 Union "
+msgid "Union "
 msgstr ""
 
 #. type: Plain text
@@ -509,7 +509,7 @@ msgstr ""
 #. type: Title ====
 #: checklistassembly.en.adoc:63
 #, no-wrap
-msgid "3.2.2 Block"
+msgid "Block"
 msgstr ""
 
 #. type: Plain text
@@ -536,12 +536,12 @@ msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:75
-msgid "A new view of GLI will appear next to a blue cog. This shows us the active source dataset for workbench operations. As more sectors are added, clicking again on the cog will allow you to switch source dataset."
+msgid "A new view of GLI will appear next to a blue cog, representing the active source dataset for workbench operations. As more sectors are added, clicking the cog again will allow you to switch the source dataset."
 msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:77
-msgid "The initial view shows the Issues known for the dataset. GLI is very large and still being actively curated, so there are many of these, but they can be ignored for this tutorial."
+msgid "The initial view displays the issues identified for the dataset. Since GLI is very large and actively curated, there are many issues, but they can be ignored for this tutorial."
 msgstr ""
 
 #. type: Target for macro image
@@ -624,7 +624,7 @@ msgstr ""
 #. type: Title ====
 #: checklistassembly.en.adoc:106
 #, no-wrap
-msgid "3.2.3  Attach "
+msgid "Attach "
 msgstr ""
 
 #. type: Plain text
@@ -699,7 +699,7 @@ msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:135
-msgid "Return to the Assembly subitem. You will see the view of the project contents beginning to be updated. This will take several minutes, grab a cup of coffee and wait for it to complete. You can Refresh the display to see progress."
+msgid "Return to the Assembly subitem, where you’ll see the project contents starting to update. This process may take several minutes, so feel free to grab a cup of coffee while you wait. You can refresh the display periodically to monitor progress."
 msgstr ""
 
 #. type: Target for macro image
@@ -732,7 +732,7 @@ msgstr ""
 #. type: Target for macro image
 #: checklistassembly.en.adoc:147
 #, no-wrap
-msgid "img/web/attach5.png"
+msgid "img/web/attach6.png"
 msgstr ""
 
 #. type: Plain text
@@ -741,73 +741,67 @@ msgid "Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the p
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:152
-#, no-wrap
-msgid "img/web/attach6.png"
-msgstr ""
-
-#. type: Plain text
-#: checklistassembly.en.adoc:156
-msgid "A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa."
-msgstr ""
-
-#. type: Target for macro image
-#: checklistassembly.en.adoc:157
+#: checklistassembly.en.adoc:151
 #, no-wrap
 msgid "img/web/attach7.png"
 msgstr ""
 
+#. type: Plain text
+#: checklistassembly.en.adoc:154
+msgid "A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:155
+#, no-wrap
+msgid "img/web/attach8.png"
+msgstr ""
+
 #. type: Title ====
-#: checklistassembly.en.adoc:159
+#: checklistassembly.en.adoc:157
 #, no-wrap
 msgid "Merge"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:162
+#: checklistassembly.en.adoc:160
 msgid "With this option to add sectors you can combine information from two or more sources. Here you will merge the species from GLI and those from the checklist derived from GAR, the paper “A review of the genus Gargela Walker in China…” (PLZ41041) that are not included in GLI."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:164
+#: checklistassembly.en.adoc:162
 msgid "Go again to the Assembly > Add sectors view, search on the left side for the genus Gargela and on the right search for Gargela and select the dataset PLZ41041 (GAR)."
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:166
+#: checklistassembly.en.adoc:164
 msgid "Drag the genus Gargela from GAR onto the genus Gargela in the project view. Select Merge. It adds all taxa from the source dataset to the project if there is not already an entry for them."
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:167
-#, no-wrap
-msgid "img/web/attach8.png"
-msgstr ""
-
-#. type: Target for macro image
-#: checklistassembly.en.adoc:169
+#: checklistassembly.en.adoc:166
 #, no-wrap
 msgid "img/web/attach9.png"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:172
+#: checklistassembly.en.adoc:169
 msgid "Go to the Sectors view and select Sync for the two new sectors (Phragmataecia and Gargela)."
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:173
+#: checklistassembly.en.adoc:170
 #, no-wrap
 msgid "img/web/attach10.png"
 msgstr ""
 
 #. type: Plain text
-#: checklistassembly.en.adoc:176
+#: checklistassembly.en.adoc:173
 msgid "Following the synchronisation, the additional taxa will appear in the project view under Assembly, you can identify the merged taxa by a yellow square with the letter “m”."
 msgstr ""
 
 #. type: Target for macro image
-#: checklistassembly.en.adoc:177
+#: checklistassembly.en.adoc:174
 #, no-wrap
 msgid "img/web/attach11.png"
 msgstr ""
@@ -815,7 +809,7 @@ msgstr ""
 #. type: Title ==
 #: releasedownload.en.adoc:1
 #, no-wrap
-msgid "4. Release"
+msgid "Release"
 msgstr ""
 
 #. type: Plain text
@@ -843,7 +837,7 @@ msgstr ""
 #. type: Title ==
 #: releasedownload.en.adoc:13
 #, no-wrap
-msgid "5. Downloading and accessing the dataset "
+msgid "Downloading and accessing the dataset "
 msgstr ""
 
 #. type: Plain text
@@ -923,7 +917,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:18
-msgid "The ChecklistBank Project Tutorial is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgid "The ChecklistBank Project Tutorial is licensed under https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 Unported License]."
 msgstr ""
 
 #. https://doi.org/10.10.#####/####.
