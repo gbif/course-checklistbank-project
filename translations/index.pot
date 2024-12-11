@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-11 00:01+0000\n"
+"POT-Creation-Date: 2024-12-11 00:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -348,7 +348,7 @@ msgstr ""
 #. type: Title ==
 #: metadata.en.adoc:3
 #, no-wrap
-msgid "2. Metadata"
+msgid "Metadata"
 msgstr ""
 
 #. type: Plain text
@@ -1015,7 +1015,7 @@ msgstr ""
 #. type: Title ==
 #: releasedownload.en.adoc:1
 #, no-wrap
-msgid "4. Release"
+msgid "Release"
 msgstr ""
 
 #. type: Plain text
@@ -1051,7 +1051,7 @@ msgstr ""
 #. type: Title ==
 #: releasedownload.en.adoc:13
 #, no-wrap
-msgid "5. Downloading and accessing the dataset "
+msgid "Downloading and accessing the dataset "
 msgstr ""
 
 #. type: Plain text
