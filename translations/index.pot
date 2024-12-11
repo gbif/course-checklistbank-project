@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-11 00:14+0000\n"
+"POT-Creation-Date: 2024-12-11 20:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,8 +66,8 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:11
 msgid ""
-"Users can create and publish new datasets in ChecklistBank through two "
-"different ways:"
+"In addition to the general tools, users can use ChecklistBank to create and "
+"publish new datasets through two different ways:"
 msgstr ""
 
 #. type: delimited block *
@@ -188,12 +188,6 @@ msgstr ""
 msgid ""
 "If you don’t have a GBIF account yet, use the register at "
 "https://www.gbif.org/[gbif.org] now!"
-msgstr ""
-
-#. type: Target for macro image
-#: login.en.adoc:12
-#, no-wrap
-msgid "img/web/CLB-front.png"
 msgstr ""
 
 #. type: Title ==
