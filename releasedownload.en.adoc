@@ -26,6 +26,6 @@ image::img/web/download2.png[align=center,width=700]
 
 For this excercise apply any desired filters then select "text tree" and click on 'Download'. The resulting ZIP file contains the metadata (as a YAML file) and the tree representation of the dataset (as a TXT file). 
 
-image::img/web/download3.png[align=center,width=300]
+image::img/web/download3.png[align=center,width=400]
 
 The view shown includes the merged genus Gargela.  
