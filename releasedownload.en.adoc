@@ -4,19 +4,21 @@ To create a dataset that is a static snapshot of the assembly, you will need to 
 
 Go to the  Options item on the left menu, and the Click on Release, the second action at the right. According to the project size it can take several minutes up to hours for the Release to be read.
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/release1.png[align=center, width=700]
 
 Releases are listed in the Releases view.  
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/release2.png[align=center,width=700]
 
 == Downloading and accessing the dataset 
 
 Return to the main Datasets subitem on the left and search for your dataset. Once releases have been completed, you will find both the project dataset and its releases in the search results. Either can be selected for the following steps, although (as noted above) only the released versions will have stable identifiers if you plan to reference taxa by URI.
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/download1.png[align=center,width=700]
 
 Select the Download subitem. This allows the dataset to be downloaded in a variety of formats:
+
+image::img/web/download2.png[align=center,width=700]
 
 - The coldp (Catalogue of Life Data Package) format is a rich data model that includes the most complete view of the contents of each dataset (see the https://www.google.com/url?q=https://github.com/CatalogueOfLife/coldp&sa=D&source=docs&ust=1733781423575681&usg=AOvVaw35RSjdeZVnv0hPcQZgeXVu[CoLDP specification]).
 
@@ -24,6 +26,6 @@ Select the Download subitem. This allows the dataset to be downloaded in a varie
 
 For this excercise apply any desired filters then select "text tree" and click on 'Download'. The resulting ZIP file contains the metadata (as a YAML file) and the tree representation of the dataset (as a TXT file). 
 
-image::img/web/CLB-search.png[align=center]
+image::img/web/download3.png[align=center,width=300]
 
 The view shown includes the merged genus Gargela.  
