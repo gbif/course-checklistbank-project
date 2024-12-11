@@ -1,6 +1,6 @@
 [multipage-level=1]
 
-== 2. Metadata
+== Metadata
 
 Once created the project, ChecklistBank will display the overview metadata page. Click on 'Edit' at the top right of the left menu to add metadata. Fill in as much detail as possible,  specially in the following fields taking into account the following best practices:
 
