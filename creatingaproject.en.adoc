@@ -3,7 +3,7 @@
 
 Go to Datasets on  the menu on the left side of the ChecklistBank window, and then click on ‘+New Dataset’. 
 
-image::img/web/datasets_page.png[align=center,width=600]
+image::img/web/datasets_page.png[align=center,width=700]
 
 Complete the form:
 
@@ -12,5 +12,5 @@ Complete the form:
 * Set a Creative Commons licence for the project: “cc by” is appropriate since none of the four source datasets of this tutorial have more restrictive licences. It is important to consider that the licences of the source datasets must be compatible, that is, if the base source has a less restrictive licence, it will not be possible to integrate information from a more restrictive source. The licence of the project can be changed at any time. 
 * Click 'Save'. 
 
-image::img/web/create_dataset.png[align=center,width=600]
+image::img/web/create_dataset.png[align=center,width=700]
 
