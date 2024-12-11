@@ -171,4 +171,4 @@ image::img/web/attach10.png[align=center,width=700]
 
 Following the synchronisation, the additional taxa will appear in the project view under Assembly, you can identify the merged taxa by a yellow square with the letter “m”.
 
-image::img/web/attach11.png[align=center,width=400]
+image::img/web/attach11.png[align=center, width=300]
