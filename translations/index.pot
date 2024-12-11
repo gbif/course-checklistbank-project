@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-11 23:36+0000\n"
+"POT-Creation-Date: 2024-12-11 23:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -354,9 +354,9 @@ msgstr ""
 #: metadata.en.adoc:6
 msgid ""
 "Once created the project, ChecklistBank will display the overview metadata "
-"page. Click on 'Edit' at the top right of the left menu to add "
-"metadata. Fill in as much detail as possible, specially in the following "
-"fields taking into account the following best practices:"
+"page. Click on 'Edit' at the top right to add metadata. Fill in as much "
+"detail as possible, specially in the following fields and taking into "
+"account the following best practices:"
 msgstr ""
 
 #. type: Plain text
@@ -386,7 +386,9 @@ msgstr ""
 
 #. type: Plain text
 #: metadata.en.adoc:12
-msgid "Contributors: All those who contributed to the creation of the checklist."
+msgid ""
+"Contributors: All those who contributed to the creation of the "
+"checklist. Give as many details as you want."
 msgstr ""
 
 #. type: Plain text
