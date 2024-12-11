@@ -1,16 +1,15 @@
 [multipage-level=2]
 == Use case
 
-In this tutorial you are going to explore features available to users through ChecklistBank  by creating a new Moth dataset. 
-You will use four existing Lepidoptera (moth and butterfly) datasets in ChecklistBank. The three-letter abbreviations GLI, ALU, PHR and GAR will be used through the rest of this tutorial to refer to the following datasets:  
+In this tutorial you are going to explore some of the features available in ChecklistBank by creating a new Moth dataset. You will use four Lepidoptera (moth and butterfly) datasets available  in ChecklistBank. The three-letter abbreviations GLI, ALU, PHR and GAR will be used through the rest of this tutorial to refer to the following datasets:  
 
 * GLI: https://www.checklistbank.org/dataset/55434/about[Global Lepidoptera Index] – the primary dataset used in the Catalogue of Life Checklist for most groups of moths and butterflies 
 
 * ALU: https://www.checklistbank.org/dataset/2207/about[Catalogue of the Alucitoidea of the World] – the dataset used in the Catalogue of Life Checklist for the many-plume moths (superfamily Alucitoidea) 
 
-* PHR (id: PLZ31420) https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
+* PHR (id: PLZ31420) https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by https://tb.plazi.org/GgServer/summary/4C519C14FF95FFE84A6FFF80203AFFE4[Plazi] from a paper in the journal https://mapress.com/zt/article/view/zootaxa.4085.4.8[Zootaxa] 
 
-* GAR (id: PLZ41041): https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by Plazi from a paper in the journal Zootaxa 
+* GAR (id: PLZ41041): https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by https://tb.plazi.org/GgServer/summary/C21EFFBCFFE49D1FFFC0FFDCCB39FFC1[Plazi] from a paper in the journal https://mapress.com/zt/article/view/zootaxa.2090.1.2[Zootaxa] 
 
 You will use ChecklistBank tools to structure a new moth dataset based on GLI and then modify it in the following ways: 
 
