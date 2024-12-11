@@ -7,7 +7,7 @@ ChecklistBank is a platform that supports the publication, analysis, and curatio
 
 A detailed tutorial of the general tools of ChecklistBank can be found https://doi.org/10.35035/ce-9sw4-e095[here].  
 
-Users can create and publish new datasets in ChecklistBank through two different ways:
+In addition to the general tools, users can use ChecklistBank to create and publish new datasets through two different ways:
 
 * Project: datasets constructed and managed within ChecklistBank
 * External: datasets created outside ChecklistBank and imported as FAIR data resources into the platform.
