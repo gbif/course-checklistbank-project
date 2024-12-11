@@ -30,6 +30,6 @@ This tutorial describes the functions available for assembling a checklist and d
 ****
 
 === Audience
-This tutorial is for Biodiversity information systems, taxonomists, governmental entities, online platforms, and any other people or institutions interested in assembling a checklist from pre existing  lists in ChecklistBank.
+This tutorial is for Biodiversity information systems, taxonomists, governmental entities, online platforms, and any other people or institutions interested in assembling a checklist from preexisting  lists in ChecklistBank.
 
 
