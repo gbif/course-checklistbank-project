@@ -3,7 +3,7 @@
 
 Building a new checklist consists of several steps and tools, which are described below:
 
-=== 3.1 Add a root taxon
+=== Add a root taxon
 
 To start the checklist assembly the highest taxonomic level  has to be established. Under the Alias of the project on the left menu select the  Assembly subitem, click on the Add root button near the middle of the window. 
 
@@ -18,7 +18,7 @@ A form will appear, change the Rank to order. This will change the display to in
 - Name status: established
 - Authorship: Linnaeus, 1758
 
-image::img/web/add_root2.png[align=center,width=300]
+image::img/web/add_root2.png[align=center,width=400]
 
 
 Then click on 'Submit'. 
@@ -26,7 +26,7 @@ The project now includes a single taxon (the order Lepidoptera) with a yellow tr
 
 image::img/web/assembly_with_root.png[align=center,width=700]
 
-=== 3.2 Add and manage sectors
+=== Add and manage sectors
 
 The building blocks for a ChecklistBank project are called  Sectors, these can be created by adding an entire dataset or a specific taxonomic group within a dataset. You can create as many sectors as needed, this gives maximum flexibility to assemble the project. There are several methods  to add sectors to the assembly:
 
@@ -40,7 +40,7 @@ There are also several editorial decisions that can be made over any taxon on th
 - *Ignore*: only the selected name is ignored.
 - *Review*: indicates that the selected name has already been reviewed and requires no changes
 
-==== 3.2.1 Union 
+==== Union 
 
 You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the Add sectors option is selected at the top of the window. 
 
@@ -60,68 +60,68 @@ The left side of the window will refresh to show that Lepidoptera is now sourced
 
 image::img/web/result_GLI.png[align=center,width=700]
 
-==== 3.2.2 Block
+==== Block
 
 Now you are going to add a decision to exclude some parts from GLI: the superfamily Papilionoidea, the superfamily Alucitoidea and the genus Phragmataecia. 
 Click on the 'Source' item in the menu at the left of the ChecklistBank window. This will open a Select option with a second blue cog. Click on the cog.  
 
-image::img/web/block1.png[align=center,width=600]
+image::img/web/block1.png[align=center,width=700]
 
 You only have one sector in your project (GLI). Select this from the pop up search window.
 
-image::img/web/block2.png[align=center,width=600]
+image::img/web/block2.png[align=center,width=700]
 
-A new view of GLI will appear next to a blue cog. This shows us the active source dataset for workbench operations. As more sectors are added, clicking again on the cog will allow you to switch source dataset.  
+A new view of GLI will appear next to a blue cog, representing the active source dataset for workbench operations. As more sectors are added, clicking the cog again will allow you to switch the source dataset.
 
-The initial view shows the Issues known for the dataset. GLI is very large and still being actively curated, so there are many of these, but they can be ignored for this tutorial. 
+The initial view displays the issues identified for the dataset. Since GLI is very large and actively curated, there are many issues, but they can be ignored for this tutorial.
 
-image::img/web/view_issues.png[align=center,width=600]
+image::img/web/view_issues.png[align=center,width=700]
 
 Select the 'Workbench´ subitem for the Source view of GLI. The workbench shows all of the taxa that will be included in your project dataset from GLI. 
 
-image::img/web/block3.png[align=center,width=600]
+image::img/web/block3.png[align=center,width=700]
 
 Type “Papilionoidea” in the Search box at the top of the window and hit Enter. The record for the butterfly superfamily Papilionoidea will be the only one shown. You can alternatively filter taxa using ranks or higher taxon or other options that can be selected by clicking on 'Advanced'. 
 
-image::img/web/block4.png[align=center,width=600]
+image::img/web/block4.png[align=center,width=700]
 
 Select "Block" from the dropdown at the left above the taxon list (just below “Reset search”). 
 
-image::img/web/block5.png[align=center,width=600]
+image::img/web/block5.png[align=center,width=700]
 
 Select "Papilionoidea" from the list and click on 'Apply selected decision'.
 
-image::img/web/block6.png[align=center,width=600]
+image::img/web/block6.png[align=center,width=700]
 
 If you click now on ‘Reset search’ (the red button on the left) and the ‘With decision’ radio button on the right, you will see that you have now specified a single decision, that Papilionoidea should be blocked. The same information can also be seen if you click on the Decisions subitem under the project menu.
 
-image::img/web/block7.png[align=center,width=600]
+image::img/web/block7.png[align=center,width=700]
 
 When you populate the dataset, this decision will be honoured. 
 
 Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and the genus Phragmataecia. 
 
-image::img/web/block8.png[align=center,width=600]
+image::img/web/block8.png[align=center,width=700]
 
-==== 3.2.3  Attach 
+==== Attach 
 
 Unlike GLI, the dataset Catalogue of the Alucitoidea of the World (ALU) includes higher classification all the way up to the kingdom, thus you are going to replace  GLI Alucitoidea sector with ALU source. 
 
 In the project, select the Assembly subitem at the left  and make sure the  Add sectors view is selected (at the top of the window). Enter “Alucitoidea” in the search field on the right, wait a couple of seconds for the drop down list of datasets to appear, and select the first dataset (id:2207). 
 
-image::img/web/attach1.png[align=center,width=600]
+image::img/web/attach1.png[align=center,width=700]
  
 Select the small arrows next to each name until the superfamily Alucitoidea appears. Alternatively, type “Alucitoidea” in the second search box on the right of the window and select it directly.
 
-image::img/web/attach2.png[align=center,width=600]
+image::img/web/attach2.png[align=center,width=700]
 
 Drag Alucitoidea from ALU on the right onto Lepidoptera in your project on the left. Select Attach to include it as a child taxon. 
 
-image::img/web/attach3.png[align=center,width=600]
+image::img/web/attach3.png[align=center,width=700]
 
 The project display will now show that you have added two sectors. Note also the blue eye symbol and source link at the top right. This is a quick way to select the current dataset as the current source dataset in the Source submenu. 
 
-image::img/web/attach4.png[align=center,width=600]
+image::img/web/attach4.png[align=center,width=700]
 
 At this point the tool only shows an overview of the higher classification, to continue creating sectors at a more specific level it is best to synchronize all sectors so the entire assembly can be explored and managed.
 
@@ -129,11 +129,11 @@ Select the Sectors item in the menu at the left below the alias of your project.
 
 Select the 'Sync all sectors' button and click 'Yes'. 
 
-image::img/web/sync1.png[align=center,width=600]
+image::img/web/sync1.png[align=center,width=700]
 
-Return to the Assembly subitem. You will see the view of the project contents beginning to be updated. This will take several minutes, grab a cup of coffee and wait for it to complete. You can Refresh the display to see progress.  
+Return to the Assembly subitem, where you’ll see the project contents starting to update. This process may take several minutes, so feel free to grab a cup of coffee while you wait. You can refresh the display periodically to monitor progress.
 
-image::img/web/sync2.png[align=center,width=600]
+image::img/web/sync2.png[align=center,width=700]
 
 Alternatively, you may click on the double arrowed circle on the top right and see the Sync state. 
 
@@ -144,17 +144,15 @@ Now let's Attach a new sector.
 
 In the Assembly > Add sectors view, search on the left side for the tribe Zeuzerini and on the right search for Phragmataecia and select dataset PLZ31420 (PHR). 
 
-image::img/web/attach5.png[align=center,width=600]
+image::img/web/attach6.png[align=center,width=700]
 
 Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the project. Select  Attach to insert the genus as a new sector. 
 
-
-image::img/web/attach6.png[align=center,width=600]
-
+image::img/web/attach7.png[align=center,width=700]
 
 A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa. 
 
-image::img/web/attach7.png[align=center,width=600]
+image::img/web/attach8.png[align=center,width=700]
 
 ==== Merge
 
@@ -163,14 +161,13 @@ With this option to add sectors you can combine information from two or more sou
 Go again to the Assembly > Add sectors view, search on the left side for the genus Gargela and on the right search for Gargela and select the dataset PLZ41041 (GAR).  
 
 Drag the genus Gargela from GAR onto the genus Gargela in the project view. Select Merge. It adds all taxa from the source dataset to the project if there is not already an entry for them. 
- 
-image::img/web/attach8.png[align=center,width=600]
 
-image::img/web/attach9.png[align=center,width=600]
+
+image::img/web/attach9.png[align=center,width=700]
 
 Go to the Sectors view and select Sync for the two new sectors (Phragmataecia and Gargela). 
 
-image::img/web/attach10.png[align=center,width=600]
+image::img/web/attach10.png[align=center,width=700]
 
 Following the synchronisation, the additional taxa will appear in the project view under Assembly, you can identify the merged taxa by a yellow square with the letter “m”.
 
