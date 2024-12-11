@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-11 22:39+0000\n"
+"POT-Creation-Date: 2024-12-11 22:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1032,15 +1032,20 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: releasedownload.en.adoc:7 releasedownload.en.adoc:11
-#: releasedownload.en.adoc:17 releasedownload.en.adoc:27
+#: releasedownload.en.adoc:7
 #, no-wrap
-msgid "img/web/CLB-search.png"
+msgid "img/web/release1.png"
 msgstr ""
 
 #. type: Plain text
 #: releasedownload.en.adoc:10
 msgid "Releases are listed in the Releases view."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:11
+#, no-wrap
+msgid "img/web/release2.png"
 msgstr ""
 
 #. type: Title ==
@@ -1059,6 +1064,12 @@ msgid ""
 "will have stable identifiers if you plan to reference taxa by URI."
 msgstr ""
 
+#. type: Target for macro image
+#: releasedownload.en.adoc:17
+#, no-wrap
+msgid "img/web/download1.png"
+msgstr ""
+
 #. type: Plain text
 #: releasedownload.en.adoc:20
 msgid ""
@@ -1066,8 +1077,14 @@ msgid ""
 "variety of formats:"
 msgstr ""
 
+#. type: Target for macro image
+#: releasedownload.en.adoc:21
+#, no-wrap
+msgid "img/web/download2.png"
+msgstr ""
+
 #. type: Plain text
-#: releasedownload.en.adoc:22
+#: releasedownload.en.adoc:24
 msgid ""
 "The coldp (Catalogue of Life Data Package) format is a rich data model that "
 "includes the most complete view of the contents of each dataset (see the "
@@ -1076,22 +1093,28 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: releasedownload.en.adoc:24
+#: releasedownload.en.adoc:26
 msgid ""
 "The text tree format is a simple text view of the names, classification and "
 "synonyms. You will download this for your project dataset."
 msgstr ""
 
 #. type: Plain text
-#: releasedownload.en.adoc:26
+#: releasedownload.en.adoc:28
 msgid ""
 "For this excercise apply any desired filters then select \"text tree\" and "
 "click on 'Download'. The resulting ZIP file contains the metadata (as a YAML "
 "file) and the tree representation of the dataset (as a TXT file)."
 msgstr ""
 
-#. type: Plain text
+#. type: Target for macro image
 #: releasedownload.en.adoc:29
+#, no-wrap
+msgid "img/web/download3.png"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:31
 msgid "The view shown includes the merged genus Gargela."
 msgstr ""
 
