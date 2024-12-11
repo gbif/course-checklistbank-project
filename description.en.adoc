@@ -7,18 +7,18 @@ ChecklistBank is a platform that supports the publication, analysis, and curatio
 
 A detailed tutorial of the general tools of ChecklistBank can be found https://doi.org/10.35035/ce-9sw4-e095[here].  
 
-In addition to the general tools, users can use ChecklistBank to create and publish new datasets through two different ways:
+In addition to the general tools, users can create and publish new datasets through ChecklistBank in two different ways:
 
 * Project: datasets constructed and managed within ChecklistBank
 * External: datasets created outside ChecklistBank and imported as FAIR data resources into the platform.
 
-Both external and project datasets benefit from many common features that ChecklistBank delivers as an open data infrastructure: standards compliance, validation and reporting, multiple download options, rich API support, etc.
+Both of them benefit from many common features that ChecklistBank delivers as an open data infrastructure: standards compliance, validation and reporting, multiple download options, rich API support, etc.
 
-ChecklistBank users can use the Project functionality to create new Checklists from existing datasets hosted in ChecklistBank (also referred here as sources), combining them totally or partially. For example to create a national checklist, based on taxonomic checklists and articles from a specific country. 
+ChecklistBank users can use the *Project functionality* to create new Checklists from existing datasets hosted in the platform (also referred here as sources), combining their data totally or partially. For example to create a national checklist, based on taxonomic checklists and articles from a specific country. 
 
 This tutorial describes the functions available for assembling a checklist and delivering it as a dataset. These tools are already in use to construct the Catalogue of life data product.
 
-Project functionality includes the following features: 
+*Project functionality* includes the following features: 
 
 * Interactive assembly process.
 * Include total or partial information from any other datasets in ChecklistBank.
