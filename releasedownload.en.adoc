@@ -10,7 +10,7 @@ Releases are listed in the Releases view.
 
 image::img/web/CLB-search.png[align=center]
 
-== 5. Downloading and accessing the dataset 
+== Downloading and accessing the dataset 
 
 Return to the main Datasets subitem on the left and search for your dataset. Once releases have been completed, you will find both the project dataset and its releases in the search results. Either can be selected for the following steps, although (as noted above) only the released versions will have stable identifiers if you plan to reference taxa by URI.
 
