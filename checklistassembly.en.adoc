@@ -5,7 +5,7 @@ Building a new checklist consists of several steps and tools, which are describe
 
 === Add a root taxon
 
-To start the checklist assembly the highest taxonomic level  has to be established. Under the Alias of the project on the left menu select the  Assembly subitem, click on the Add root button near the middle of the window. 
+To start the checklist assembly the highest taxonomic level  has to be established. Under the Alias of the project on the left menu select the  Assembly subitem, click on the '+ Add root' button near the middle of the window. 
 
 image::img/web/assembly_fisrt_view.png[align=center,width=700]
 
