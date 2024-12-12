@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-11 22:51+0000\n"
-"PO-Revision-Date: 2024-12-11 23:01\n"
+"POT-Creation-Date: 2024-12-12 00:03+0000\n"
+"PO-Revision-Date: 2024-12-12 00:14\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -164,28 +164,28 @@ msgid "Use case"
 msgstr ""
 
 #. type: Plain text
-#: usecase.en.adoc:6
-msgid "In this tutorial you are going to explore features available to users through ChecklistBank by creating a new Moth dataset.  You will use four existing Lepidoptera (moth and butterfly) datasets in ChecklistBank. The three-letter abbreviations GLI, ALU, PHR and GAR will be used through the rest of this tutorial to refer to the following datasets:"
+#: usecase.en.adoc:5
+msgid "In this tutorial you are going to explore some of the features available in ChecklistBank by creating a new Moth dataset. You will use four Lepidoptera (moth and butterfly) datasets available in ChecklistBank. The three-letter abbreviations GLI, ALU, PHR and GAR will be used through the rest of this tutorial to refer to the following datasets:"
 msgstr ""
 
 #. type: Plain text
-#: usecase.en.adoc:8
+#: usecase.en.adoc:7
 msgid "GLI: https://www.checklistbank.org/dataset/55434/about[Global Lepidoptera Index] – the primary dataset used in the Catalogue of Life Checklist for most groups of moths and butterflies"
 msgstr ""
 
 #. type: Plain text
-#: usecase.en.adoc:10
+#: usecase.en.adoc:9
 msgid "ALU: https://www.checklistbank.org/dataset/2207/about[Catalogue of the Alucitoidea of the World] – the dataset used in the Catalogue of Life Checklist for the many-plume moths (superfamily Alucitoidea)"
 msgstr ""
 
 #. type: Plain text
-#: usecase.en.adoc:12
-msgid "PHR (id: PLZ31420) https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by Plazi from a paper in the journal Zootaxa"
+#: usecase.en.adoc:11
+msgid "PHR (id: PLZ31420) https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by https://tb.plazi.org/GgServer/summary/4C519C14FF95FFE84A6FFF80203AFFE4[Plazi] from a paper in the journal https://mapress.com/zt/article/view/zootaxa.4085.4.8[Zootaxa]"
 msgstr ""
 
 #. type: Plain text
-#: usecase.en.adoc:14
-msgid "GAR (id: PLZ41041): https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by Plazi from a paper in the journal Zootaxa"
+#: usecase.en.adoc:13
+msgid "GAR (id: PLZ41041): https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by https://tb.plazi.org/GgServer/summary/C21EFFBCFFE49D1FFFC0FFDCCB39FFC1[Plazi] from a paper in the journal https://mapress.com/zt/article/view/zootaxa.2090.1.2[Zootaxa]"
 msgstr ""
 
 #. type: Plain text
@@ -252,7 +252,7 @@ msgstr ""
 
 #. type: Plain text
 #: creatingaproject.en.adoc:13
-msgid "Set a Creative Commons licence for the project: “cc by” is appropriate since none of the four source datasets of this tutorial have more restrictive licences. It is important to consider that the licences of the source datasets must be compatible, that is, if the base source has a less restrictive licence, it will not be possible to integrate information from a more restrictive source. The licence of the project can be changed at any time."
+msgid "Set a https://creativecommons.org/share-your-work/[Creative Commons] licence for the project: “cc by” is appropriate since none of the four source datasets of this tutorial have more restrictive licences. It is important to consider that the licences of the source datasets must be compatible, that is, if the base source has a less restrictive licence, it will not be possible to integrate information from a more restrictive source. The licence of the project can be changed at any time."
 msgstr ""
 
 #. type: Plain text
@@ -274,7 +274,7 @@ msgstr ""
 
 #. type: Plain text
 #: metadata.en.adoc:6
-msgid "Once created the project, ChecklistBank will display the overview metadata page. Click on 'Edit' at the top right of the left menu to add metadata. Fill in as much detail as possible, specially in the following fields taking into account the following best practices:"
+msgid "Once created the project, ChecklistBank will display the overview metadata page. Click on 'Edit' at the top right to add metadata. Fill in as much detail as possible, specially in the following fields and taking into account the following best practices:"
 msgstr ""
 
 #. type: Plain text
@@ -299,7 +299,7 @@ msgstr ""
 
 #. type: Plain text
 #: metadata.en.adoc:12
-msgid "Contributors: All those who contributed to the creation of the checklist."
+msgid "Contributors: All those who contributed to the creation of the checklist. Give as many details as you want."
 msgstr ""
 
 #. type: Plain text
@@ -342,7 +342,7 @@ msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:9
-msgid "To start the checklist assembly the highest taxonomic level has to be established. Under the Alias of the project on the left menu select the Assembly subitem, click on the Add root button near the middle of the window."
+msgid "To start the checklist assembly the highest taxonomic level has to be established. Under the Alias of the project on the left menu select the Assembly subitem, click on the '+ Add root' button near the middle of the window."
 msgstr ""
 
 #. type: Target for macro image
@@ -792,13 +792,18 @@ msgstr ""
 
 #. type: Plain text
 #: checklistassembly.en.adoc:173
-msgid "Following the synchronisation, the additional taxa will appear in the project view under Assembly, you can identify the merged taxa by a yellow square with the letter “m”."
+msgid "Following the synchronisation, the additional taxa will appear in the project view under Assembly."
 msgstr ""
 
 #. type: Target for macro image
 #: checklistassembly.en.adoc:174
 #, no-wrap
 msgid "img/web/attach11.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:176
+msgid "You can identify the merged taxa by a yellow square with the letter “m”."
 msgstr ""
 
 #. type: Title ==
@@ -837,7 +842,7 @@ msgstr ""
 #. type: Title ==
 #: releasedownload.en.adoc:13
 #, no-wrap
-msgid "Downloading and accessing the dataset "
+msgid "Download"
 msgstr ""
 
 #. type: Plain text
