@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-12 00:31+0000\n"
+"POT-Creation-Date: 2024-12-12 00:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1042,7 +1042,7 @@ msgstr ""
 #. type: Plain text
 #: releasedownload.en.adoc:6
 msgid ""
-"Go to the Options item on the left menu, and the Click on Release, the "
+"Go to the Options item on the left menu, and the Click on 'Release', the "
 "second action at the right. According to the project size it can take "
 "several minutes up to hours for the Release to be read."
 msgstr ""
@@ -1055,7 +1055,7 @@ msgstr ""
 
 #. type: Plain text
 #: releasedownload.en.adoc:10
-msgid "Releases are listed in the Releases view."
+msgid "Releases are listed in the Releases item on the left menu."
 msgstr ""
 
 #. type: Target for macro image
@@ -1073,7 +1073,7 @@ msgstr ""
 #. type: Plain text
 #: releasedownload.en.adoc:16
 msgid ""
-"Return to the main Datasets subitem on the left and search for your "
+"Return to the main Datasets subitem on the left menu and search for your "
 "dataset. Once releases have been completed, you will find both the project "
 "dataset and its releases in the search results. Either can be selected for "
 "the following steps, although (as noted above) only the released versions "
