@@ -42,7 +42,7 @@ There are also several editorial decisions that can be made over any taxon on th
 
 ==== Union 
 
-You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the Add sectors option is selected at the top of the window. 
+You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the 'Add sectors' option is selected at the top of the window. 
 
 On the search box on the right side of the window, enter “GLI” or  “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a few seconds for the dropdown list of datasets to load.
 
@@ -63,6 +63,7 @@ image::img/web/result_GLI.png[align=center,width=700]
 ==== Block
 
 Now you are going to add a decision to exclude some parts from GLI: the superfamily Papilionoidea, the superfamily Alucitoidea and the genus Phragmataecia. 
+
 Click on the 'Source' item in the menu at the left of the ChecklistBank window. This will open a Select option with a second blue cog. Click on the cog.  
 
 image::img/web/block1.png[align=center,width=700]
@@ -99,7 +100,7 @@ image::img/web/block7.png[align=center,width=700]
 
 When you populate the dataset, this decision will be honoured. 
 
-Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and the genus Phragmataecia. 
+Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and for the genus Phragmataecia. 
 
 image::img/web/block8.png[align=center,width=700]
 
