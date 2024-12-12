@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-12 00:48+0000\n"
+"POT-Creation-Date: 2024-12-12 18:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -159,33 +159,33 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: login.en.adoc:2
+#: login.en.adoc:3
 #, no-wrap
 msgid "ChecklistBank login"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:5
+#: login.en.adoc:6
 msgid "All registered users on GBIF can login on ChecklistBank:"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:7
+#: login.en.adoc:8
 msgid "Go to https://www.checklistbank.org/"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:8
+#: login.en.adoc:9
 msgid "Click on Login (top right)"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:9
+#: login.en.adoc:10
 msgid "Login with your GBIF account +"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:11
+#: login.en.adoc:12
 msgid ""
 "If you don’t have a GBIF account yet, use the register at "
 "https://www.gbif.org/[gbif.org] now!"
