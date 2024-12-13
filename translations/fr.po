@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-12 00:48+0000\n"
-"PO-Revision-Date: 2024-12-12 01:26\n"
+"POT-Creation-Date: 2024-12-13 00:29+0000\n"
+"PO-Revision-Date: 2024-12-13 00:36\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -127,33 +127,33 @@ msgid "This tutorial is for Biodiversity information systems, taxonomists, gover
 msgstr ""
 
 #. type: Title ==
-#: login.en.adoc:2
+#: login.en.adoc:3
 #, no-wrap
 msgid "ChecklistBank login"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:5
+#: login.en.adoc:6
 msgid "All registered users on GBIF can login on ChecklistBank:"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:7
+#: login.en.adoc:8
 msgid "Go to https://www.checklistbank.org/"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:8
+#: login.en.adoc:9
 msgid "Click on Login (top right)"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:9
+#: login.en.adoc:10
 msgid "Login with your GBIF account +"
 msgstr ""
 
 #. type: Plain text
-#: login.en.adoc:11
+#: login.en.adoc:12
 msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
 msgstr ""
 
@@ -934,7 +934,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:14
-msgid "This tutorial was developed to document the project functionality of ChecklistBank to support registered users interested in generating a new checklist based on the datasets available in the platform. Catalogue of Life acknowledges the European Commission funded project Biodiversity Community Integrated Knowledge Library (BiCIKL) (grant number 101007492), and support from the Netherlands Biodiversity Information Facility."
+msgid "This tutorial was developed to document the project functionality of ChecklistBank to support registered users interested in generating a new checklist based on the datasets available in the platform. Catalogue of Life acknowledges the European Commission funded project Biodiversity Community Integrated Knowledge Library (BiCIKL) (grant number 101007492), and support from the Netherlands Biodiversity Information Facility (nlbif2021.021)."
 msgstr ""
 
 #. type: Title ===
