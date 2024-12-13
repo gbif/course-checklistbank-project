@@ -10,7 +10,7 @@ Donald Hobern, Camila Plata, Diana Hernández, Olaf Bánki, Markus Döring, Thom
 
 === Contributors
 
-This tutorial was developed to document the project functionality of ChecklistBank to support registered users interested in generating a new checklist based on the datasets available in the platform. Catalogue of Life acknowledges the European Commission funded project Biodiversity Community Integrated Knowledge Library (BiCIKL) (grant number 101007492), and support from the Netherlands Biodiversity Information Facility.
+This tutorial was developed to document the project functionality of ChecklistBank to support registered users interested in generating a new checklist based on the datasets available in the platform. Catalogue of Life acknowledges the European Commission funded project Biodiversity Community Integrated Knowledge Library (BiCIKL) (grant number 101007492), and support from the Netherlands Biodiversity Information Facility (nlbif2021.021).
 
 === Licence
 
