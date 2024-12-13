@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-12 18:33+0000\n"
+"POT-Creation-Date: 2024-12-13 00:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1181,7 +1181,7 @@ msgid ""
 "checklist based on the datasets available in the platform. Catalogue of Life "
 "acknowledges the European Commission funded project Biodiversity Community "
 "Integrated Knowledge Library (BiCIKL) (grant number 101007492), and support "
-"from the Netherlands Biodiversity Information Facility."
+"from the Netherlands Biodiversity Information Facility (nlbif2021.021)."
 msgstr ""
 
 #. type: Title ===
