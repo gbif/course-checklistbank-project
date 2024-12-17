@@ -41,6 +41,8 @@ include::checklistassembly.en.adoc[]
 
 include::releasedownload.en.adoc[]
 
+:sectnums!:
+
 include::colophon.en.adoc[]
 
 
