@@ -17,9 +17,9 @@ This tutorial was developed to document the project functionality of ChecklistBa
 The ChecklistBank Project Tutorial is licensed under https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 Unported License].
 
 // Uncomment once a DOI is assigned.
-//=== Persistent URI
-//
-//https://doi.org/10.10.#####/####.
+=== Persistent URI
+
+https://doi.org/10.10.#####/####.
 
 === Document control
 
