@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-13 00:29+0000\n"
+"POT-Creation-Date: 2024-12-17 16:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1199,9 +1199,17 @@ msgid ""
 msgstr ""
 
 #.  Uncomment once a DOI is assigned.
-#. === Persistent URI
-#
-#. https://doi.org/10.10.#####/####.
+#. type: Title ===
+#: colophon.en.adoc:20
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:23
+msgid "https://doi.org/10.10.#####/####."
+msgstr ""
+
 #. type: Title ===
 #: colophon.en.adoc:24
 #, no-wrap
