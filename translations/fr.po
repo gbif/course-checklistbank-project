@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-13 00:29+0000\n"
-"PO-Revision-Date: 2024-12-13 00:36\n"
+"POT-Creation-Date: 2024-12-17 16:36+0000\n"
+"PO-Revision-Date: 2024-12-17 16:50\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -948,7 +948,18 @@ msgstr ""
 msgid "The ChecklistBank Project Tutorial is licensed under https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 Unported License]."
 msgstr ""
 
-#. https://doi.org/10.10.#####/####.
+#.  Uncomment once a DOI is assigned.
+#. type: Title ===
+#: colophon.en.adoc:20
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:23
+msgid "https://doi.org/10.10.#####/####."
+msgstr ""
+
 #. type: Title ===
 #: colophon.en.adoc:24
 #, no-wrap
