@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-project\n"
-"POT-Creation-Date: 2024-12-17 16:36+0000\n"
-"PO-Revision-Date: 2024-12-17 16:50\n"
+"POT-Creation-Date: 2025-01-16 11:49+0000\n"
+"PO-Revision-Date: 2025-01-16 13:24\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -912,7 +912,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:5
-msgid "Hobern D., Plata C., Hernández D., Bánki O., Döring M., Stjernegaard T., & Miller J (2024). ChecklistBank Project Tutorial.  A tool to build and curate checklists.  version 1. https://doi.org/10.10.#####/####."
+msgid "Hobern D., Plata C., Hernández D., Bánki O., Döring M., Stjernegaard T., & Miller J (2024). ChecklistBank Project Tutorial.  A tool to build and curate checklists.  version 1. https://doi.org/10.35035/ce-har0-r370."
 msgstr ""
 
 #. type: Title ===
@@ -957,7 +957,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:23
-msgid "https://doi.org/10.10.#####/####."
+msgid "https://doi.org/10.35035/ce-har0-r370."
 msgstr ""
 
 #. type: Title ===
