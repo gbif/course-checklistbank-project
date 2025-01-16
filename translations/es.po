@@ -1,0 +1,1364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: checklistbank-project\n"
+"POT-Creation-Date: 2024-12-17 16:36+0000\n"
+"PO-Revision-Date: 2024-12-17 16:50\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: checklistbank-project\n"
+"X-Crowdin-Project-ID: 596835\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[gbif.course-checklistbank-project] 1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 39567\n"
+
+#. type: Title =
+#: index.en.adoc:1
+#, no-wrap
+msgid "ChecklistBank Project: A tool to build and curate checklists"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:4
+msgid "Catalogue of Life <support@catalogueoflife.org> GBIF Secretariat <training@gbif.org>"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:18
+msgid "languageLinks:combined[]"
+msgstr ""
+
+#. type: Target for macro image
+#: index.en.adoc:23
+#, no-wrap
+msgid "img/logos/clb-col-dark.svg"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:3
+#, no-wrap
+msgid "Description"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:7
+msgid "ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF)."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:9
+msgid "A detailed tutorial of the general tools of ChecklistBank can be found https://doi.org/10.35035/ce-9sw4-e095[here]."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:11
+msgid "In addition to the general tools, users can create and publish new datasets through ChecklistBank in two different ways:"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:13
+msgid "Project: datasets constructed and managed within ChecklistBank"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:14
+msgid "External: datasets created outside ChecklistBank and imported as FAIR data resources into the platform."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:16
+msgid "Both of them benefit from many common features that ChecklistBank delivers as an open data infrastructure: standards compliance, validation and reporting, multiple download options, rich API support, etc."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:18
+msgid "ChecklistBank users can use the *Project functionality* to create new Checklists from existing datasets hosted in the platform (also referred here as sources), combining their data totally or partially. For example to create a national checklist, based on taxonomic checklists and articles from a specific country."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:20
+msgid "This tutorial describes the functions available for assembling a checklist and delivering it as a dataset. These tools are already in use to construct the Catalogue of life data product."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:22
+#, no-wrap
+msgid "*Project functionality* includes the following features: \n"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:24
+msgid "Interactive assembly process."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:25
+msgid "Include total or partial information from any other datasets in ChecklistBank."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:26
+msgid "Select or block specific parts from a any given dataset included in the project."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:27
+msgid "Synchronisation between the main project and the source dataset."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:28
+msgid "Stable static versions called releases, with stable record identifiers."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:32
+#, no-wrap
+msgid "Audience"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:34
+msgid "This tutorial is for Biodiversity information systems, taxonomists, governmental entities, online platforms, and any other people or institutions interested in assembling a checklist from preexisting lists in ChecklistBank."
+msgstr ""
+
+#. type: Title ==
+#: login.en.adoc:3
+#, no-wrap
+msgid "ChecklistBank login"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:6
+msgid "All registered users on GBIF can login on ChecklistBank:"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:8
+msgid "Go to https://www.checklistbank.org/"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:9
+msgid "Click on Login (top right)"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:10
+msgid "Login with your GBIF account +"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:12
+msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
+msgstr ""
+
+#. type: Title ==
+#: usecase.en.adoc:2
+#, no-wrap
+msgid "Use case"
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:5
+msgid "In this tutorial you are going to explore some of the features available in ChecklistBank by creating a new Moth dataset. You will use four Lepidoptera (moth and butterfly) datasets available in ChecklistBank. The three-letter abbreviations GLI, ALU, PHR and GAR will be used through the rest of this tutorial to refer to the following datasets:"
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:7
+msgid "GLI: https://www.checklistbank.org/dataset/55434/about[Global Lepidoptera Index] – the primary dataset used in the Catalogue of Life Checklist for most groups of moths and butterflies"
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:9
+msgid "ALU: https://www.checklistbank.org/dataset/2207/about[Catalogue of the Alucitoidea of the World] – the dataset used in the Catalogue of Life Checklist for the many-plume moths (superfamily Alucitoidea)"
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:11
+msgid "PHR (id: PLZ31420) https://www.checklistbank.org/dataset/31420/about[A world catalogue of Phragmataecia (Lepidoptera: Cossidae)], with a new species from Kazakhstan and Kyrgyzstan – a dataset summarising the names currently accepted for a moth genus, extracted by https://tb.plazi.org/GgServer/summary/4C519C14FF95FFE84A6FFF80203AFFE4[Plazi] from a paper in the journal https://mapress.com/zt/article/view/zootaxa.4085.4.8[Zootaxa]"
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:13
+msgid "GAR (id: PLZ41041): https://www.checklistbank.org/dataset/41041/about[A review of the genus Gargela Walker in China, with descriptions of ten new species (Lepidoptera: Crambidae, Crambinae)] – a dataset summarising the names of Chinese species a moth genus, extracted by https://tb.plazi.org/GgServer/summary/C21EFFBCFFE49D1FFFC0FFDCCB39FFC1[Plazi] from a paper in the journal https://mapress.com/zt/article/view/zootaxa.2090.1.2[Zootaxa]"
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:16
+msgid "You will use ChecklistBank tools to structure a new moth dataset based on GLI and then modify it in the following ways:"
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:18
+msgid "Exclude the butterfly superfamily Papilionoidea, to create a “moth”-only dataset."
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:19
+msgid "Replace the Alucitoidea section in GLI with the version in ALU ."
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:20
+msgid "Replace the Phragmataecia section in GLI (in the family Cossidae) with the version in PHR."
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:21
+msgid "Merge new species from GAR with those already in the Gargela section in GLI."
+msgstr ""
+
+#. type: Plain text
+#: usecase.en.adoc:22
+msgid "The tutorial will finally show how the resulting dataset can be exported."
+msgstr ""
+
+#. type: Title ==
+#: creatingaproject.en.adoc:2
+#, no-wrap
+msgid "Creating a new project"
+msgstr ""
+
+#. type: Plain text
+#: creatingaproject.en.adoc:5
+msgid "Go to Datasets on the menu on the left side of the ChecklistBank window, and then click on ‘+New Dataset’."
+msgstr ""
+
+#. type: Target for macro image
+#: creatingaproject.en.adoc:6
+#, no-wrap
+msgid "img/web/datasets_page.png"
+msgstr ""
+
+#. type: Plain text
+#: creatingaproject.en.adoc:9
+msgid "Complete the form:"
+msgstr ""
+
+#. type: Plain text
+#: creatingaproject.en.adoc:11
+msgid "Set a meaningful and clear title. For this tutorial use: your name followed by \"Moths of the World\"."
+msgstr ""
+
+#. type: Plain text
+#: creatingaproject.en.adoc:12
+msgid "Select \"project\" for the Dataset Origin and \"taxonomic\" for the Dataset Type."
+msgstr ""
+
+#. type: Plain text
+#: creatingaproject.en.adoc:13
+msgid "Set a https://creativecommons.org/share-your-work/[Creative Commons] licence for the project: “cc by” is appropriate since none of the four source datasets of this tutorial have more restrictive licences. It is important to consider that the licences of the source datasets must be compatible, that is, if the base source has a less restrictive licence, it will not be possible to integrate information from a more restrictive source. The licence of the project can be changed at any time."
+msgstr ""
+
+#. type: Plain text
+#: creatingaproject.en.adoc:14
+msgid "Click 'Save'."
+msgstr ""
+
+#. type: Target for macro image
+#: creatingaproject.en.adoc:15
+#, no-wrap
+msgid "img/web/create_dataset.png"
+msgstr ""
+
+#. type: Title ==
+#: metadata.en.adoc:3
+#, no-wrap
+msgid "Metadata"
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:6
+msgid "Once created the project, ChecklistBank will display the overview metadata page. Click on 'Edit' at the top right to add metadata. Fill in as much detail as possible, specially in the following fields and taking into account the following best practices:"
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:8
+msgid "Give the project your own unique Alias – this will make it easier to locate in later steps. Consider using camelCase and spaces; avoid ALL CAPS and underscores."
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:9
+msgid "Description: A brief summary of the content and scope of the dataset."
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:10
+msgid "Contact: Person who can answer questions regarding the content of the dataset."
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:11
+msgid "Creator: Creator of the dataset."
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:12
+msgid "Contributors: All those who contributed to the creation of the checklist. Give as many details as you want."
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:13
+msgid "Version: to be updated every time updates are made."
+msgstr ""
+
+#. type: Target for macro image
+#: metadata.en.adoc:14
+#, no-wrap
+msgid "img/web/metadata.png"
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:17
+msgid "Then click 'Save' at the bottom of the page."
+msgstr ""
+
+#. type: Plain text
+#: metadata.en.adoc:19
+msgid "Once the Project is created, its Alias will be visible in the menu bar at the left, under which are all the sub items of the project."
+msgstr ""
+
+#. type: Title ==
+#: checklistassembly.en.adoc:2
+#, no-wrap
+msgid "Checklist assembly"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:5
+msgid "Building a new checklist consists of several steps and tools, which are described below:"
+msgstr ""
+
+#. type: Title ===
+#: checklistassembly.en.adoc:6
+#, no-wrap
+msgid "Add a root taxon"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:9
+msgid "To start the checklist assembly the highest taxonomic level has to be established. Under the Alias of the project on the left menu select the Assembly subitem, click on the '+ Add root' button near the middle of the window."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:10
+#, no-wrap
+msgid "img/web/assembly_fisrt_view.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:13
+msgid "Enter the name “Lepidoptera” and click on Parse name."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:14
+#, no-wrap
+msgid "img/web/add_root.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:17
+msgid "A form will appear, change the Rank to order. This will change the display to include the fields shown in the image. Complete these as follows:"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:19
+msgid "Name status: established"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:20
+msgid "Authorship: Linnaeus, 1758"
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:21
+#, no-wrap
+msgid "img/web/add_root2.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:26
+msgid "Then click on 'Submit'.  The project now includes a single taxon (the order Lepidoptera) with a yellow triangle indicating that at present no sectors have been added."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:27
+#, no-wrap
+msgid "img/web/assembly_with_root.png"
+msgstr ""
+
+#. type: Title ===
+#: checklistassembly.en.adoc:29
+#, no-wrap
+msgid "Add and manage sectors"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:32
+msgid "The building blocks for a ChecklistBank project are called Sectors, these can be created by adding an entire dataset or a specific taxonomic group within a dataset. You can create as many sectors as needed, this gives maximum flexibility to assemble the project. There are several methods to add sectors to the assembly:"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:34
+#, no-wrap
+msgid "*Union*: adds all the descendants of the subject taxon, and ignores the name of the subject itself\n"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:35
+#, no-wrap
+msgid "*Attach*: adds the subject taxon and all its descendants\n"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:36
+#, no-wrap
+msgid "*Merge*: enriches the existing assembly with additional information provided by the selected sector like: new names, synonyms, authorships, and references, among others.\n"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:38
+msgid "There are also several editorial decisions that can be made over any taxon on the project:"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:40
+#, no-wrap
+msgid "*Block*: ignores the selected name and its children.\n"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:41
+#, no-wrap
+msgid "*Ignore*: only the selected name is ignored.\n"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:42
+#, no-wrap
+msgid "*Review*: indicates that the selected name has already been reviewed and requires no changes\n"
+msgstr ""
+
+#. type: Title ====
+#: checklistassembly.en.adoc:43
+#, no-wrap
+msgid "Union "
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:46
+msgid "You will start by adding the base tree, GLI, as the first sector with the union method.  Make sure that the 'Add sectors' option is selected at the top of the window."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:48
+msgid "On the search box on the right side of the window, enter “GLI” or “Global Lepidoptera Index”. Alternatively, type “55434”, which is the dataset ID for GLI. Wait a few seconds for the dropdown list of datasets to load."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:49
+#, no-wrap
+msgid "img/web/add_GLI.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:52
+msgid "The right side of the window will refresh with the hierarchy for GLI."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:53
+#, no-wrap
+msgid "img/web/view_GLI.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:56
+msgid "Select Lepidoptera on the right and drag it across onto or immediately below Lepidoptera on the left. You will be asked to specify how the GLI Lepidoptera should be added as a project sector. Select 'Union'."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:57
+#, no-wrap
+msgid "img/web/union_GLI.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:60
+msgid "The left side of the window will refresh to show that Lepidoptera is now sourced from GLI and will list just the first five children of GLI as an indication of content. The coloured labels will allow GLI to be distinguished easily from other sectors as they are added."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:61
+#, no-wrap
+msgid "img/web/result_GLI.png"
+msgstr ""
+
+#. type: Title ====
+#: checklistassembly.en.adoc:63
+#, no-wrap
+msgid "Block"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:66
+msgid "Now you are going to add a decision to exclude some parts from GLI: the superfamily Papilionoidea, the superfamily Alucitoidea and the genus Phragmataecia."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:68
+msgid "Click on the 'Source' item in the menu at the left of the ChecklistBank window. This will open a Select option with a second blue cog. Click on the cog."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:69
+#, no-wrap
+msgid "img/web/block1.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:72
+msgid "You only have one sector in your project (GLI). Select this from the pop up search window."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:73
+#, no-wrap
+msgid "img/web/block2.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:76
+msgid "A new view of GLI will appear next to a blue cog, representing the active source dataset for workbench operations. As more sectors are added, clicking the cog again will allow you to switch the source dataset."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:78
+msgid "The initial view displays the issues identified for the dataset. Since GLI is very large and actively curated, there are many issues, but they can be ignored for this tutorial."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:79
+#, no-wrap
+msgid "img/web/view_issues.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:82
+msgid "Select the 'Workbench´ subitem for the Source view of GLI. The workbench shows all of the taxa that will be included in your project dataset from GLI."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:83
+#, no-wrap
+msgid "img/web/block3.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:86
+msgid "Type “Papilionoidea” in the Search box at the top of the window and hit Enter. The record for the butterfly superfamily Papilionoidea will be the only one shown. You can alternatively filter taxa using ranks or higher taxon or other options that can be selected by clicking on 'Advanced'."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:87
+#, no-wrap
+msgid "img/web/block4.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:90
+msgid "Select \"Block\" from the dropdown at the left above the taxon list (just below “Reset search”)."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:91
+#, no-wrap
+msgid "img/web/block5.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:94
+msgid "Select \"Papilionoidea\" from the list and click on 'Apply selected decision'."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:95
+#, no-wrap
+msgid "img/web/block6.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:98
+msgid "If you click now on ‘Reset search’ (the red button on the left) and the ‘With decision’ radio button on the right, you will see that you have now specified a single decision, that Papilionoidea should be blocked. The same information can also be seen if you click on the Decisions subitem under the project menu."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:99
+#, no-wrap
+msgid "img/web/block7.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:102
+msgid "When you populate the dataset, this decision will be honoured."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:104
+msgid "Repeat the same steps (Source: Global Lepidoptera Index > Workbench > search for taxon > Block taxon) for the superfamily Alucitoidea and for the genus Phragmataecia."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:105
+#, no-wrap
+msgid "img/web/block8.png"
+msgstr ""
+
+#. type: Title ====
+#: checklistassembly.en.adoc:107
+#, no-wrap
+msgid "Attach "
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:110
+msgid "Unlike GLI, the dataset Catalogue of the Alucitoidea of the World (ALU) includes higher classification all the way up to the kingdom, thus you are going to replace GLI Alucitoidea sector with ALU source."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:112
+msgid "In the project, select the Assembly subitem at the left and make sure the Add sectors view is selected (at the top of the window). Enter “Alucitoidea” in the search field on the right, wait a couple of seconds for the drop down list of datasets to appear, and select the first dataset (id:2207)."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:113
+#, no-wrap
+msgid "img/web/attach1.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:116
+msgid "Select the small arrows next to each name until the superfamily Alucitoidea appears. Alternatively, type “Alucitoidea” in the second search box on the right of the window and select it directly."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:117
+#, no-wrap
+msgid "img/web/attach2.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:120
+msgid "Drag Alucitoidea from ALU on the right onto Lepidoptera in your project on the left. Select Attach to include it as a child taxon."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:121
+#, no-wrap
+msgid "img/web/attach3.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:124
+msgid "The project display will now show that you have added two sectors. Note also the blue eye symbol and source link at the top right. This is a quick way to select the current dataset as the current source dataset in the Source submenu."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:125
+#, no-wrap
+msgid "img/web/attach4.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:128
+msgid "At this point the tool only shows an overview of the higher classification, to continue creating sectors at a more specific level it is best to synchronize all sectors so the entire assembly can be explored and managed."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:130
+msgid "Select the Sectors item in the menu at the left below the alias of your project. This view allows you to synchronise the content from each sector into your project."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:132
+msgid "Select the 'Sync all sectors' button and click 'Yes'."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:133
+#, no-wrap
+msgid "img/web/sync1.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:136
+msgid "Return to the Assembly subitem, where you’ll see the project contents starting to update. This process may take several minutes, so feel free to grab a cup of coffee while you wait. You can refresh the display periodically to monitor progress."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:137
+#, no-wrap
+msgid "img/web/sync2.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:140
+msgid "Alternatively, you may click on the double arrowed circle on the top right and see the Sync state."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:142
+#, no-wrap
+msgid "img/web/sync3.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:145
+msgid "Now let's Attach a new sector."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:147
+msgid "In the Assembly > Add sectors view, search on the left side for the tribe Zeuzerini and on the right search for Phragmataecia and select dataset PLZ31420 (PHR)."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:148
+#, no-wrap
+msgid "img/web/attach6.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:151
+msgid "Find the genus Phragmataecia from PHR and drag it onto Zeuzerini in the project. Select Attach to insert the genus as a new sector."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:152
+#, no-wrap
+msgid "img/web/attach7.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:155
+msgid "A new sector (with a new colour) will appear on the left. The PHR (alias is PLZ31420). The sector has not yet been synchronised so it shows no child taxa."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:156
+#, no-wrap
+msgid "img/web/attach8.png"
+msgstr ""
+
+#. type: Title ====
+#: checklistassembly.en.adoc:158
+#, no-wrap
+msgid "Merge"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:161
+msgid "With this option to add sectors you can combine information from two or more sources. Here you will merge the species from GLI and those from the checklist derived from GAR, the paper “A review of the genus Gargela Walker in China…” (PLZ41041) that are not included in GLI."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:163
+msgid "Go again to the Assembly > Add sectors view, search on the left side for the genus Gargela and on the right search for Gargela and select the dataset PLZ41041 (GAR)."
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:165
+msgid "Drag the genus Gargela from GAR onto the genus Gargela in the project view. Select Merge. It adds all taxa from the source dataset to the project if there is not already an entry for them."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:167
+#, no-wrap
+msgid "img/web/attach9.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:170
+msgid "Go to the Sectors view and select Sync for the two new sectors (Phragmataecia and Gargela)."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:171
+#, no-wrap
+msgid "img/web/attach10.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:174
+msgid "Following the synchronisation, the additional taxa will appear in the project view under Assembly."
+msgstr ""
+
+#. type: Target for macro image
+#: checklistassembly.en.adoc:175
+#, no-wrap
+msgid "img/web/attach11.png"
+msgstr ""
+
+#. type: Plain text
+#: checklistassembly.en.adoc:177
+msgid "You can identify the merged taxa by a yellow square with the letter “m”."
+msgstr ""
+
+#. type: Title ==
+#: releasedownload.en.adoc:1
+#, no-wrap
+msgid "Release"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:4
+msgid "To create a dataset that is a static snapshot of the assembly, you will need to make a ‘Release’. This will also generate stable identifiers for each taxon. The dataset generated will have the same characteristics and metadata as the project and will be available in the platform as public or private (depending on the definition of the project)."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:6
+msgid "Go to the Options item on the left menu, and the Click on 'Release', the second action at the right. According to the project size it can take several minutes up to hours for the Release to be read."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:7
+#, no-wrap
+msgid "img/web/release1.png"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:10
+msgid "Releases are listed in the Releases item on the left menu."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:11
+#, no-wrap
+msgid "img/web/release2.png"
+msgstr ""
+
+#. type: Title ==
+#: releasedownload.en.adoc:13
+#, no-wrap
+msgid "Download"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:16
+msgid "Return to the main Datasets subitem on the left menu and search for your dataset. Once releases have been completed, you will find both the project dataset and its releases in the search results. Either can be selected for the following steps, although (as noted above) only the released versions will have stable identifiers if you plan to reference taxa by URI."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:17
+#, no-wrap
+msgid "img/web/download1.png"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:20
+msgid "Select the Download subitem. This allows the dataset to be downloaded in a variety of formats:"
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:21
+#, no-wrap
+msgid "img/web/download2.png"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:24
+msgid "The coldp (Catalogue of Life Data Package) format is a rich data model that includes the most complete view of the contents of each dataset (see the https://www.google.com/url?q=https://github.com/CatalogueOfLife/coldp&sa=D&source=docs&ust=1733781423575681&usg=AOvVaw35RSjdeZVnv0hPcQZgeXVu[CoLDP specification])."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:26
+msgid "The text tree format is a simple text view of the names, classification and synonyms. You will download this for your project dataset."
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:28
+msgid "For this excercise apply any desired filters then select \"text tree\" and click on 'Download'. The resulting ZIP file contains the metadata (as a YAML file) and the tree representation of the dataset (as a TXT file)."
+msgstr ""
+
+#. type: Target for macro image
+#: releasedownload.en.adoc:29
+#, no-wrap
+msgid "img/web/download3.png"
+msgstr ""
+
+#. type: Plain text
+#: releasedownload.en.adoc:31
+msgid "The view shown includes the merged genus Gargela."
+msgstr ""
+
+#. type: Title ==
+#: colophon.en.adoc:1
+#, no-wrap
+msgid "Colophon"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:3
+#, no-wrap
+msgid "Suggested citation"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:5
+msgid "Hobern D., Plata C., Hernández D., Bánki O., Döring M., Stjernegaard T., & Miller J (2024). ChecklistBank Project Tutorial.  A tool to build and curate checklists.  version 1. https://doi.org/10.10.#####/####."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:8
+#, no-wrap
+msgid "Authors"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:10
+msgid "Donald Hobern, Camila Plata, Diana Hernández, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen and Joe Miller."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:11
+#, no-wrap
+msgid "Contributors"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:14
+msgid "This tutorial was developed to document the project functionality of ChecklistBank to support registered users interested in generating a new checklist based on the datasets available in the platform. Catalogue of Life acknowledges the European Commission funded project Biodiversity Community Integrated Knowledge Library (BiCIKL) (grant number 101007492), and support from the Netherlands Biodiversity Information Facility (nlbif2021.021)."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:15
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:18
+msgid "The ChecklistBank Project Tutorial is licensed under https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 Unported License]."
+msgstr ""
+
+#.  Uncomment once a DOI is assigned.
+#. type: Title ===
+#: colophon.en.adoc:20
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:23
+msgid "https://doi.org/10.10.#####/####."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:24
+#, no-wrap
+msgid "Document control"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:27
+msgid "First edition, December 2024"
+msgstr ""
+
+#. type: Table
+#: colophon.en.adoc:33
+#, no-wrap
+msgid "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
+"|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]\n"
+"|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:2
+#, no-wrap
+msgid "// Slide 1\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:5
+#, no-wrap
+msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
+"These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:7
+#, no-wrap
+msgid "// Slide 2\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:10
+#, no-wrap
+msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
+"I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:12
+#, no-wrap
+msgid "// Slide 3\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:15
+#, no-wrap
+msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
+"In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:17
+#, no-wrap
+msgid "// Slide 4\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:19
+#, no-wrap
+msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:21
+#, no-wrap
+msgid "a list of species present in a protected area is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:23
+#, no-wrap
+msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:25
+#, no-wrap
+msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:27
+#, no-wrap
+msgid "// Slide 5\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:31
+#, no-wrap
+msgid "GBIF provides data publishers with templates for each class of dataset.\n"
+"The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
+"In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:33
+#, no-wrap
+msgid "// Slide 6\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:36
+#, no-wrap
+msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
+"Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:38
+#, no-wrap
+msgid "// Slide 7\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:41
+#, no-wrap
+msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
+"However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:43
+#, no-wrap
+msgid "// Slide 8\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:45
+#, no-wrap
+msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:47
+#, no-wrap
+msgid "// Slide 9\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:50
+#, no-wrap
+msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
+"ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:52
+#, no-wrap
+msgid "// Slide 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:55
+#, no-wrap
+msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
+"These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:57
+#, no-wrap
+msgid "// Slide 11\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:60
+#, no-wrap
+msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
+"They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:62
+#, no-wrap
+msgid "// Slide 12\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:67
+#, no-wrap
+msgid "Occurrence data represents the GBIF class of datasets with the largest number of records on GBIF.org.\n"
+"Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
+"In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
+"Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:69
+#, no-wrap
+msgid "// Slide 13\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:72
+#, no-wrap
+msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
+"They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:74
+#, no-wrap
+msgid "// Slide 14\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:77
+#, no-wrap
+msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
+"Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:79
+#, no-wrap
+msgid "// Slide 15\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:81
+#, no-wrap
+msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:83
+#, no-wrap
+msgid "// Slide 16\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:86
+#, no-wrap
+msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
+"Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:88
+#, no-wrap
+msgid "// Slide 17\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:90
+#, no-wrap
+msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:92
+#, no-wrap
+msgid "// Slide 18\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:96
+#, no-wrap
+msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
+"Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
+"In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:98
+#, no-wrap
+msgid "// Slide 19\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:102
+#, no-wrap
+msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
+"The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
+"The data are then searchable and downloadable via GBIF.org.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:104
+#, no-wrap
+msgid "// Slide 20\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:107
+#, no-wrap
+msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
+"The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:109
+#, no-wrap
+msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:111
+#, no-wrap
+msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:113
+#, no-wrap
+msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:115
+#, no-wrap
+msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:117
+#, no-wrap
+msgid "// Slide 21\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:121
+#, no-wrap
+msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
+"Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
+"You can find these requirements on GBIF.org from the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:123
+#, no-wrap
+msgid "// Slide 22\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:125
+#, no-wrap
+msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:127
+#, no-wrap
+msgid "You can reflect on this topic with the following questions:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:129
+#, no-wrap
+msgid "Is your data type different than you originally thought?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:131
+#, no-wrap
+msgid "With what kind of data do you work?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:133
+#, no-wrap
+msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:135
+#, no-wrap
+msgid "// Slide 23\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:137
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:139
+#, no-wrap
+msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:141
+#, no-wrap
+msgid "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:142
+#, no-wrap
+msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
+msgstr ""
+
